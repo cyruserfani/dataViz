@@ -58,4 +58,37 @@ for province in data:
 			else:
 				indList.append('{0:.3f}'.format((-1)*float(value)/9000*40))
 		formatted_data[province].append(indList)
-print(formatted_data)
+# print(formatted_data)
+
+industry_data = {'Goods Producting': {}, 
+'Construction':{}, 
+'Manufacturing':{}, 
+'Service':{}, 
+'Transportation':{},
+'Finance':{}, 
+'Technical Services':{}, 
+'Education':{}, 
+'Arts':{}}
+
+for province in data:
+	for industry in industry_data:
+		if province not in industry_data[industry]:
+			industry_data[industry][province] = []
+		industry_data[industry][province] = data[province][industry]
+# print(industry_data)
+
+formatted_indData = {}
+for industry in industry_data:
+	formatted_indData[industry] = []
+	for province in industry_data[industry]:
+		proList = []
+		proList.append(str(map_provinces[province] + '-' + industry))
+		proList.append(0)
+		for value in industry_data[industry][province]:
+			if value == '..' or value == 'F' or value == 'x':
+				proList.append(0)
+			else:
+				proList.append(float('{0:.3f}'.format((-1)*float(value)/9000*40)))
+		formatted_indData[industry].append(proList)
+
+print(formatted_indData)

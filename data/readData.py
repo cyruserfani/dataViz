@@ -45,7 +45,7 @@ for line in lines:
 					index = i + j * 10
 					data[province][industry].append(values[index].replace('"', ''))
 
-# print(data)
+# print(data['British Columbia'])
 formatted_data = {}
 for province in data:
 	formatted_data[province] = []
@@ -59,7 +59,7 @@ for province in data:
 			else:
 				indList.append(float(value))
 		formatted_data[province].append(indList)
-print(formatted_data)
+#print(formatted_data['British Columbia'])
 
 # data format for wage rate will be like:
 # {'AB':{
@@ -73,3 +73,43 @@ print(formatted_data)
 # }
 
 #}}
+
+
+industry_data = {'Goods Producting': {}, 
+'Construction':{}, 
+'Manufacturing':{}, 
+'Service':{}, 
+'Transportation':{},
+'Finance':{}, 
+'Technical Services':{}, 
+'Education':{}, 
+'Arts':{}}
+
+for province in data:
+	for industry in industry_data:
+		if province not in industry_data[industry]:
+			industry_data[industry][province] = []
+		industry_data[industry][province] = data[province][industry]
+# print(industry_data)
+
+formatted_indData = {}
+for industry in industry_data:
+	formatted_indData[industry] = []
+	for province in industry_data[industry]:
+		proList = []
+		proList.append(str(map_provinces[province] + '-' + industry))
+		proList.append(0)
+		for value in industry_data[industry][province]:
+			if value == '..' or value == 'F' or value == 'x':
+				proList.append(0)
+			else:
+				proList.append(float(value))
+		formatted_indData[industry].append(proList)
+# print(formatted_indData)
+
+# after clicked switch button, data becomes industry based
+# {'Education':{
+# 		'BC':[]
+		# 'AB':[]
+# 	}
+# }
