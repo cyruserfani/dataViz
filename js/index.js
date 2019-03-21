@@ -224,43 +224,43 @@ yearSlider.orientation = "horizontal";
 yearSlider.start = 0.5;
 yearSlider.exportable = false;
 
-chart.data = generateRadarData();
+chart.data = generateRadarData(salaries, tuitions);
 
-function generateRadarData() {
+function generateRadarData(data1, data2) {
     var data = [];
     var i = 0;
-    for (var province in salaries) {
-        var provinceData = salaries[province];
+    for (var outCategory in data1) {
+        var outCategoryData = data1[outCategory];
 
-        provinceData.forEach(function (industry) {
-            var rawDataItem = { "industry": industry[0] }
+        outCategoryData.forEach(function (innerCategory) {
+            var rawDataItem = { "industry": innerCategory[0] }
 
-            for (var y = 2; y < industry.length; y++) {
-                rawDataItem["value:salary" + (startYear + y - 2)] = industry[y];
+            for (var y = 2; y < innerCategory.length; y++) {
+                rawDataItem["value:salary" + (startYear + y - 2)] = innerCategory[y];
             }
 
             data.push(rawDataItem);
         });
 
-        createRange(province, provinceData, i);
+        createRange(outCategory, outCategoryData, i);
         i++;
 
     }
 
-    for (var province in tuitions) {
-        var provinceData = tuitions[province];
+    for (var outCategory in data2) {
+        var outCategoryData = data2[outCategory];
 
-        provinceData.forEach(function (industry) {
-            var rawDataItem = { "industry": industry[0] }
+        outCategoryData.forEach(function (innerCategory) {
+            var rawDataItem = { "industry": innerCategory[0] }
 
-            for (var y = 2; y < industry.length; y++) {
-                rawDataItem["value:tuition" + (startYear + y - 2)] = industry[y];
+            for (var y = 2; y < innerCategory.length; y++) {
+                rawDataItem["value:tuition" + (startYear + y - 2)] = innerCategory[y];
             }
 
             data.push(rawDataItem);
         });
 
-        createRange(province, provinceData, i);
+        createRange(outCategory, outCategoryData, i);
         i++;
 
     }
