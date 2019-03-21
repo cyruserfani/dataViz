@@ -97,7 +97,7 @@ for industry in industry_data:
 	formatted_indData[industry] = []
 	for province in industry_data[industry]:
 		proList = []
-		proList.append(str(map_provinces[province] + '-' + industry))
+		proList.append(str(industry + '-' + map_provinces[province]))
 		proList.append(0)
 		for value in industry_data[industry][province]:
 			if value == '..' or value == 'F' or value == 'x':
@@ -105,7 +105,7 @@ for industry in industry_data:
 			else:
 				proList.append(float(value))
 		formatted_indData[industry].append(proList)
-# print(formatted_indData)
+print(formatted_indData)
 
 # after clicked switch button, data becomes industry based
 # {'Education':{
