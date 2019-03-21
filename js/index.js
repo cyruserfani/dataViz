@@ -122,15 +122,21 @@ chart.innerRadius = am4core.percent(40);
 
 var button = chart.createChild(am4core.Button);
 button.events.on("hit", function () {
-    if(flag){
-    	flag = false
-    }
-    else{
-    	flag = true
-    }
-	
-    chartData(flag)
+    switchSeries(flag)
+
 })
+
+function switchSeries(flag) {
+  if (flag) {
+  	flag = 1
+    chart.data = data[1];
+    chart.invalidateData();
+  } else {
+  	flag = 0
+    chart.data = data[0];
+    chart.invalidateData();
+  }
+}
 
 // year label goes in the middle
 var yearLabel = chart.radarContainer.createChild(am4core.Label);
@@ -197,6 +203,8 @@ series.dataFields.valueY = "value:salary" + currentYear;
 series.clustered = false;
 series.dataFields.categoryX = "industry";
 series.tooltipText = "Salary in {categoryX}:{valueY.value}";
+series.name = "Salary";
+
 
 // this makes columns to be of a different color, depending on value
 series.heatRules.push({ target: series.columns.template, property: "fill", minValue: -3, maxValue: 6, min: am4core.color("#673AB7"), max: am4core.color("#F44336"), dataField: "valueY" });
@@ -209,9 +217,19 @@ series2.dataFields.valueY = "value:tuition" + currentYear;
 series2.clustered = false;
 series2.dataFields.categoryX = "industry";
 series2.tooltipText = "Tuition fee in {categoryX}:{valueY.value}";
+series2.name = "Tuition";
+
 // this makes columns to be of a different color, depending on value
 series.heatRules.push({ target: series2.columns.template, property: "fill", minValue: -3, maxValue: 6, min: am4core.color("#25C33E"), max: am4core.color("#1B8D64"), dataField: "valueY" });
 
+chart.legend = new am4charts.Legend();
+// chart.legend.data = [{
+//   "name": "Salary",
+//   "fill":"#FF0000"
+// }, {
+//   "name": "Tuition",
+//   "fill": "#25C33E"
+// }];
 
 // cursor
 var cursor = new am4charts.RadarCursor();
@@ -241,19 +259,28 @@ yearSlider.orientation = "horizontal";
 yearSlider.start = 0.5;
 yearSlider.exportable = false;
 
-chartData(flag)
+// chartData(flag)
 
-function chartData(flag) {
-	if (flag) {
-		chart.data = generateRadarData(indSalaries, indTuitions);
-	} else {
-		chart.data = generateRadarData(salaries, tuitions);
-	}
+// function chartData(flag) {
+// 	if (flag) {
+// 		chart.data = generateRadarData(indSalaries, indTuitions);
+// 	} else {
+// 		chart.data = generateRadarData(salaries, tuitions);
+// 	}
+// }
+
+var data = generateRadarData(salaries, tuitions, indSalaries, indTuitions)
+
+if (flag) {
+	chart.data = data[0];
+	console.log('initial chart.data', chart.data)
+} else {
+	chart.data = data[1];
 }
 
-
-function generateRadarData(data1, data2) {
+function generateRadarData(data1, data2, data3, data4) {
     var data = [];
+    var dataTwo = [];
     var i = 0;
     for (var outCategory in data1) {
         var outCategoryData = data1[outCategory];
@@ -290,7 +317,43 @@ function generateRadarData(data1, data2) {
         i++;
 
     }
-    return data;
+
+    for (var outCategory in data3) {
+        var outCategoryData = data3[outCategory];
+
+        outCategoryData.forEach(function (innerCategory) {
+            var rawDataItem = { "industry": innerCategory[0] };
+
+            for (var y = 2; y < innerCategory.length; y++) {
+                rawDataItem["value:tuition" + (startYear + y - 2)] = innerCategory[y];
+            }
+
+            dataTwo.push(rawDataItem);
+        });
+
+        createRange(outCategory, outCategoryData, i);
+        i++;
+
+    }
+
+    for (var outCategory in data4) {
+        var outCategoryData = data4[outCategory];
+
+        outCategoryData.forEach(function (innerCategory) {
+            var rawDataItem = { "industry": innerCategory[0] };
+
+            for (var y = 2; y < innerCategory.length; y++) {
+                rawDataItem["value:tuition" + (startYear + y - 2)] = innerCategory[y];
+            }
+
+            dataTwo.push(rawDataItem);
+        });
+
+        createRange(outCategory, outCategoryData, i);
+        i++;
+
+    }
+    return [data, dataTwo];
 }
 
 
