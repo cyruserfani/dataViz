@@ -122,19 +122,22 @@ chart.innerRadius = am4core.percent(40);
 
 var button = chart.createChild(am4core.Button);
 button.events.on("hit", function () {
-    switchSeries(flag)
+    switchSeries()
 
 })
 
-function switchSeries(flag) {
+function switchSeries() {
   if (flag) {
-  	flag = 1
+  	flag = false
     chart.data = data[1];
+    console.log('switch chart data ind', chart.data)
     chart.invalidateData();
   } else {
-  	flag = 0
+  	flag = true
     chart.data = data[0];
+    console.log('switch chart data prov', chart.data)
     chart.invalidateData();
+
   }
 }
 
@@ -211,7 +214,7 @@ series.heatRules.push({ target: series.columns.template, property: "fill", minVa
 
 // series2
 var series2 = chart.series.push(new am4charts.RadarColumnSeries());
-series2.columns.template.width = am4core.percent(50);
+series2.columns.template.width = am4core.percent(90);
 series2.columns.template.strokeOpacity = 0;
 series2.dataFields.valueY = "value:tuition" + currentYear;
 series2.clustered = false;
@@ -222,14 +225,15 @@ series2.name = "Tuition";
 // this makes columns to be of a different color, depending on value
 series.heatRules.push({ target: series2.columns.template, property: "fill", minValue: -3, maxValue: 6, min: am4core.color("#25C33E"), max: am4core.color("#1B8D64"), dataField: "valueY" });
 
-chart.legend = new am4charts.Legend();
-// chart.legend.data = [{
-//   "name": "Salary",
-//   "fill":"#FF0000"
-// }, {
-//   "name": "Tuition",
-//   "fill": "#25C33E"
-// }];
+
+// chart.legend = new am4charts.Legend()
+// // chart.legend.data = [{
+// //   "name": "Salary",
+// //   "fill":"#FF0000"
+// // }, {
+// //   "name": "Tuition",
+// //   "fill": "#25C33E"
+// // }];
 
 // cursor
 var cursor = new am4charts.RadarCursor();
@@ -271,12 +275,8 @@ yearSlider.exportable = false;
 
 var data = generateRadarData(salaries, tuitions, indSalaries, indTuitions)
 
-if (flag) {
-	chart.data = data[0];
-	console.log('initial chart.data', chart.data)
-} else {
-	chart.data = data[1];
-}
+chart.data = data[0];
+console.log('initial chart.data', chart.data)
 
 function generateRadarData(data1, data2, data3, data4) {
     var data = [];
@@ -355,6 +355,7 @@ function generateRadarData(data1, data2, data3, data4) {
     }
     return [data, dataTwo];
 }
+
 
 
 function updateRadarData(year) {
