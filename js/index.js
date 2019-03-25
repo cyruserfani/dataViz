@@ -174,7 +174,7 @@ valueAxisRenderer.grid.template.strokeOpacity = 0.05;
 
 // series
 var series = chart.series.push(new am4charts.RadarColumnSeries());
-series.columns.template.width = am4core.percent(90);
+series.columns.template.width = am4core.percent(70);
 series.columns.template.strokeOpacity = 0;
 series.dataFields.valueY = "value:salary" + currentYear;
 series.clustered = false;
@@ -186,15 +186,15 @@ series.heatRules.push({ target: series.columns.template, property: "fill", minVa
 
 // series2
 var series2 = chart.series.push(new am4charts.RadarColumnSeries());
-series2.columns.template.width = am4core.percent(50);
+series2.columns.template.width = am4core.percent(70);
 series2.columns.template.strokeOpacity = 0;
 series2.dataFields.valueY = "value:tuition" + currentYear;
 series2.clustered = false;
 series2.dataFields.categoryX = "industry";
 series2.tooltipText = "Tuition fee in {categoryX}:{valueY.value}";
+
 // this makes columns to be of a different color, depending on value
 series.heatRules.push({ target: series2.columns.template, property: "fill", minValue: -3, maxValue: 6, min: am4core.color("#25C33E"), max: am4core.color("#1B8D64"), dataField: "valueY" });
-
 
 // cursor
 var cursor = new am4charts.RadarCursor();
@@ -203,17 +203,39 @@ cursor.behavior = "zoomX";
 
 cursor.xAxis = categoryAxis;
 cursor.innerRadius = am4core.percent(40);
-cursor.lineY.disabled = true;
+cursor.lineY.disabled = false;
 
 cursor.lineX.fillOpacity = 0.2;
 cursor.lineX.fill = am4core.color("#000000");
 cursor.lineX.strokeOpacity = 0;
 cursor.fullWidthLineX = true;
 
+/// container for years
+
+var years = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]
+
+var yearsContainer = chart.createChild(am4core.Container);
+yearsContainer.layout = "horizontal";
+yearsContainer.padding(50, 0, 0, 0);
+yearsContainer.width = am4core.percent(100);
+
+for (var _year in years){
+	_yearsContainer = yearsContainer.createChild(am4core.Container);
+	_yearsContainer.width = am4core.percent(100);
+	_yearsContainer.padding(0, 0, 0, 38);
+	var year_Label = _yearsContainer.createChild(am4core.Label);
+	year_Label.text = String(years[_year]);
+	year_Label.fill = am4core.color("#673AB7");
+	year_Label.fontSize = 18;
+
+}
+
+/// container for years
+
 // year slider
 var yearSliderContainer = chart.createChild(am4core.Container);
 yearSliderContainer.layout = "vertical";
-yearSliderContainer.padding(0, 38, 0, 38);
+yearSliderContainer.padding(0, 0, 0, 0);
 yearSliderContainer.width = am4core.percent(100);
 
 var yearSlider = yearSliderContainer.createChild(am4core.Slider);
@@ -302,7 +324,7 @@ function createRange(name, outCategoryData, index) {
     axisFill.togglable = true;
 
     axisFill.showSystemTooltip = true;
-    axisFill.readerTitle = "click to zoom";
+    axisFill.readerTitle = "click to zoom on province";
     axisFill.cursorOverStyle = am4core.MouseCursorStyle.pointer;
 
     axisFill.events.on("hit", function (event) {
