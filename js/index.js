@@ -111,7 +111,7 @@ chart.hiddenState.properties.opacity = 0;
 chart.startAngle = 270 - 180;
 chart.endAngle = 270 + 180;
 
-chart.padding(5,15,5,10)
+chart.padding(100,15,5,10)
 chart.radius = am4core.percent(65);
 chart.innerRadius = am4core.percent(40);
 
@@ -216,18 +216,17 @@ var years = [2008, 2009, 2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017]
 
 var yearsContainer = chart.createChild(am4core.Container);
 yearsContainer.layout = "horizontal";
-yearsContainer.padding(50, 0, 0, 0);
+yearsContainer.padding(100, 0, 0, 0);
 yearsContainer.width = am4core.percent(100);
 
 for (var _year in years){
 	_yearsContainer = yearsContainer.createChild(am4core.Container);
 	_yearsContainer.width = am4core.percent(100);
-	_yearsContainer.padding(0, 0, 0, 38);
 	var year_Label = _yearsContainer.createChild(am4core.Label);
 	year_Label.text = String(years[_year]);
 	year_Label.fill = am4core.color("#673AB7");
 	year_Label.fontSize = 18;
-
+	year_Label.align = 'center';
 }
 
 /// container for years
@@ -236,7 +235,8 @@ for (var _year in years){
 var yearSliderContainer = chart.createChild(am4core.Container);
 yearSliderContainer.layout = "vertical";
 yearSliderContainer.padding(0, 0, 0, 0);
-yearSliderContainer.width = am4core.percent(100);
+yearSliderContainer.width = am4core.percent(95);
+yearSliderContainer.align = 'center';
 
 var yearSlider = yearSliderContainer.createChild(am4core.Slider);
 yearSlider.events.on("rangechanged", function () {
