@@ -1,0 +1,2001 @@
+REF_DATE,GEO,Labour_force_characteristics,NAICS,Sex,VALUE
+2008,Newfoundland and Labrador,Employment,Goods-producing sector,Males,41.6
+2008,Newfoundland and Labrador,Employment,Goods-producing sector,Females,8.9
+2008,Newfoundland and Labrador,Employment,Construction,Males,16.1
+2008,Newfoundland and Labrador,Employment,Construction,Females,1.4
+2008,Newfoundland and Labrador,Employment,Manufacturing,Males,9.5
+2008,Newfoundland and Labrador,Employment,Manufacturing,Females,4.5
+2008,Newfoundland and Labrador,Employment,Services-producing sector,Males,73.0
+2008,Newfoundland and Labrador,Employment,Services-producing sector,Females,97.7
+2008,Newfoundland and Labrador,Employment,Transportation and warehousing,Males,8.6
+2008,Newfoundland and Labrador,Employment,Transportation and warehousing,Females,2.2
+2008,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Males,3.3
+2008,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Females,4.1
+2008,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Males,4.7
+2008,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Females,3.4
+2008,Newfoundland and Labrador,Employment,Educational services,Males,6.3
+2008,Newfoundland and Labrador,Employment,Educational services,Females,9.9
+2008,Newfoundland and Labrador,Employment,Health care and social assistance,Males,6.2
+2008,Newfoundland and Labrador,Employment,Health care and social assistance,Females,26.8
+2008,Newfoundland and Labrador,Employment,"Information, culture and recreation",Males,4.8
+2008,Newfoundland and Labrador,Employment,"Information, culture and recreation",Females,3.9
+2008,Prince Edward Island,Employment,Goods-producing sector,Males,14.0
+2008,Prince Edward Island,Employment,Goods-producing sector,Females,3.3
+2008,Prince Edward Island,Employment,Construction,Males,4.8
+2008,Prince Edward Island,Employment,Construction,Females,0.5
+2008,Prince Edward Island,Employment,Manufacturing,Males,4.2
+2008,Prince Edward Island,Employment,Manufacturing,Females,1.6
+2008,Prince Edward Island,Employment,Services-producing sector,Males,20.7
+2008,Prince Edward Island,Employment,Services-producing sector,Females,31.0
+2008,Prince Edward Island,Employment,Transportation and warehousing,Males,2.2
+2008,Prince Edward Island,Employment,Transportation and warehousing,Females,0.5
+2008,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Males,1.2
+2008,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Females,1.6
+2008,Prince Edward Island,Employment,"Professional, scientific and technical services",Males,1.3
+2008,Prince Edward Island,Employment,"Professional, scientific and technical services",Females,1.1
+2008,Prince Edward Island,Employment,Educational services,Males,1.7
+2008,Prince Edward Island,Employment,Educational services,Females,3.0
+2008,Prince Edward Island,Employment,Health care and social assistance,Males,1.2
+2008,Prince Edward Island,Employment,Health care and social assistance,Females,7.3
+2008,Prince Edward Island,Employment,"Information, culture and recreation",Males,1.0
+2008,Prince Edward Island,Employment,"Information, culture and recreation",Females,1.2
+2008,Nova Scotia,Employment,Goods-producing sector,Males,75.6
+2008,Nova Scotia,Employment,Goods-producing sector,Females,16.7
+2008,Nova Scotia,Employment,Construction,Males,28.7
+2008,Nova Scotia,Employment,Construction,Females,2.4
+2008,Nova Scotia,Employment,Manufacturing,Males,28.4
+2008,Nova Scotia,Employment,Manufacturing,Females,10.5
+2008,Nova Scotia,Employment,Services-producing sector,Males,151.4
+2008,Nova Scotia,Employment,Services-producing sector,Females,207.9
+2008,Nova Scotia,Employment,Transportation and warehousing,Males,14.0
+2008,Nova Scotia,Employment,Transportation and warehousing,Females,4.3
+2008,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Males,8.5
+2008,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Females,12.9
+2008,Nova Scotia,Employment,"Professional, scientific and technical services",Males,12.4
+2008,Nova Scotia,Employment,"Professional, scientific and technical services",Females,8.2
+2008,Nova Scotia,Employment,Educational services,Males,11.2
+2008,Nova Scotia,Employment,Educational services,Females,22.1
+2008,Nova Scotia,Employment,Health care and social assistance,Males,10.6
+2008,Nova Scotia,Employment,Health care and social assistance,Females,52.3
+2008,Nova Scotia,Employment,"Information, culture and recreation",Males,10.7
+2008,Nova Scotia,Employment,"Information, culture and recreation",Females,8.6
+2008,New Brunswick,Employment,Goods-producing sector,Males,63.7
+2008,New Brunswick,Employment,Goods-producing sector,Females,16.2
+2008,New Brunswick,Employment,Construction,Males,22.8
+2008,New Brunswick,Employment,Construction,Females,2.3
+2008,New Brunswick,Employment,Manufacturing,Males,23.6
+2008,New Brunswick,Employment,Manufacturing,Females,9.6
+2008,New Brunswick,Employment,Services-producing sector,Males,119.1
+2008,New Brunswick,Employment,Services-producing sector,Females,161.7
+2008,New Brunswick,Employment,Transportation and warehousing,Males,14.9
+2008,New Brunswick,Employment,Transportation and warehousing,Females,5.4
+2008,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Males,6.6
+2008,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Females,8.7
+2008,New Brunswick,Employment,"Professional, scientific and technical services",Males,9.7
+2008,New Brunswick,Employment,"Professional, scientific and technical services",Females,7.7
+2008,New Brunswick,Employment,Educational services,Males,9.0
+2008,New Brunswick,Employment,Educational services,Females,16.6
+2008,New Brunswick,Employment,Health care and social assistance,Males,9.3
+2008,New Brunswick,Employment,Health care and social assistance,Females,41.5
+2008,New Brunswick,Employment,"Information, culture and recreation",Males,6.0
+2008,New Brunswick,Employment,"Information, culture and recreation",Females,5.5
+2008,Quebec,Employment,Goods-producing sector,Males,672.4
+2008,Quebec,Employment,Goods-producing sector,Females,207.7
+2008,Quebec,Employment,Construction,Males,190.2
+2008,Quebec,Employment,Construction,Females,25.5
+2008,Quebec,Employment,Manufacturing,Males,381.8
+2008,Quebec,Employment,Manufacturing,Females,151.6
+2008,Quebec,Employment,Services-producing sector,Males,1363.6
+2008,Quebec,Employment,Services-producing sector,Females,1639.1
+2008,Quebec,Employment,Transportation and warehousing,Males,143.9
+2008,Quebec,Employment,Transportation and warehousing,Females,39.9
+2008,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Males,98.1
+2008,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Females,131.1
+2008,Quebec,Employment,"Professional, scientific and technical services",Males,148.3
+2008,Quebec,Employment,"Professional, scientific and technical services",Females,114.1
+2008,Quebec,Employment,Educational services,Males,86.6
+2008,Quebec,Employment,Educational services,Females,164.3
+2008,Quebec,Employment,Health care and social assistance,Males,95.1
+2008,Quebec,Employment,Health care and social assistance,Females,376.6
+2008,Quebec,Employment,"Information, culture and recreation",Males,94.6
+2008,Quebec,Employment,"Information, culture and recreation",Females,74.6
+2008,Ontario,Employment,Goods-producing sector,Males,1146.0
+2008,Ontario,Employment,Goods-producing sector,Females,355.9
+2008,Ontario,Employment,Construction,Males,384.0
+2008,Ontario,Employment,Construction,Females,48.7
+2008,Ontario,Employment,Manufacturing,Males,624.5
+2008,Ontario,Employment,Manufacturing,Females,258.7
+2008,Ontario,Employment,Services-producing sector,Males,2299.0
+2008,Ontario,Employment,Services-producing sector,Females,2809.3
+2008,Ontario,Employment,Transportation and warehousing,Males,238.2
+2008,Ontario,Employment,Transportation and warehousing,Females,82.6
+2008,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Males,213.2
+2008,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Females,255.9
+2008,Ontario,Employment,"Professional, scientific and technical services",Males,291.8
+2008,Ontario,Employment,"Professional, scientific and technical services",Females,197.0
+2008,Ontario,Employment,Educational services,Males,159.6
+2008,Ontario,Employment,Educational services,Females,313.4
+2008,Ontario,Employment,Health care and social assistance,Males,114.3
+2008,Ontario,Employment,Health care and social assistance,Females,568.6
+2008,Ontario,Employment,"Information, culture and recreation",Males,156.8
+2008,Ontario,Employment,"Information, culture and recreation",Females,154.3
+2008,Manitoba,Employment,Goods-producing sector,Males,119.4
+2008,Manitoba,Employment,Goods-producing sector,Females,28.5
+2008,Manitoba,Employment,Construction,Males,35.7
+2008,Manitoba,Employment,Construction,Females,2.5
+2008,Manitoba,Employment,Manufacturing,Males,51.0
+2008,Manitoba,Employment,Manufacturing,Females,18.0
+2008,Manitoba,Employment,Services-producing sector,Males,201.5
+2008,Manitoba,Employment,Services-producing sector,Females,252.1
+2008,Manitoba,Employment,Transportation and warehousing,Males,28.5
+2008,Manitoba,Employment,Transportation and warehousing,Females,6.8
+2008,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Males,15.1
+2008,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Females,20.8
+2008,Manitoba,Employment,"Professional, scientific and technical services",Males,14.1
+2008,Manitoba,Employment,"Professional, scientific and technical services",Females,11.6
+2008,Manitoba,Employment,Educational services,Males,14.6
+2008,Manitoba,Employment,Educational services,Females,31.5
+2008,Manitoba,Employment,Health care and social assistance,Males,15.9
+2008,Manitoba,Employment,Health care and social assistance,Females,66.6
+2008,Manitoba,Employment,"Information, culture and recreation",Males,12.1
+2008,Manitoba,Employment,"Information, culture and recreation",Females,9.9
+2008,Saskatchewan,Employment,Goods-producing sector,Males,116.1
+2008,Saskatchewan,Employment,Goods-producing sector,Females,22.8
+2008,Saskatchewan,Employment,Construction,Males,32.2
+2008,Saskatchewan,Employment,Construction,Females,3.5
+2008,Saskatchewan,Employment,Manufacturing,Males,25.0
+2008,Saskatchewan,Employment,Manufacturing,Females,6.6
+2008,Saskatchewan,Employment,Services-producing sector,Males,161.1
+2008,Saskatchewan,Employment,Services-producing sector,Females,217.4
+2008,Saskatchewan,Employment,Transportation and warehousing,Males,20.0
+2008,Saskatchewan,Employment,Transportation and warehousing,Females,5.5
+2008,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Males,10.4
+2008,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Females,17.8
+2008,Saskatchewan,Employment,"Professional, scientific and technical services",Males,11.4
+2008,Saskatchewan,Employment,"Professional, scientific and technical services",Females,9.7
+2008,Saskatchewan,Employment,Educational services,Males,12.9
+2008,Saskatchewan,Employment,Educational services,Females,25.1
+2008,Saskatchewan,Employment,Health care and social assistance,Males,9.4
+2008,Saskatchewan,Employment,Health care and social assistance,Females,54.2
+2008,Saskatchewan,Employment,"Information, culture and recreation",Males,10.2
+2008,Saskatchewan,Employment,"Information, culture and recreation",Females,9.8
+2008,Alberta,Employment,Goods-producing sector,Males,464.8
+2008,Alberta,Employment,Goods-producing sector,Females,120.8
+2008,Alberta,Employment,Construction,Males,187.2
+2008,Alberta,Employment,Construction,Females,29.3
+2008,Alberta,Employment,Manufacturing,Males,104.9
+2008,Alberta,Employment,Manufacturing,Females,35.3
+2008,Alberta,Employment,Services-producing sector,Males,672.3
+2008,Alberta,Employment,Services-producing sector,Females,795.9
+2008,Alberta,Employment,Transportation and warehousing,Males,78.5
+2008,Alberta,Employment,Transportation and warehousing,Females,29.7
+2008,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Males,43.9
+2008,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Females,69.1
+2008,Alberta,Employment,"Professional, scientific and technical services",Males,95.5
+2008,Alberta,Employment,"Professional, scientific and technical services",Females,66.0
+2008,Alberta,Employment,Educational services,Males,39.8
+2008,Alberta,Employment,Educational services,Females,82.7
+2008,Alberta,Employment,Health care and social assistance,Males,31.5
+2008,Alberta,Employment,Health care and social assistance,Females,161.6
+2008,Alberta,Employment,"Information, culture and recreation",Males,37.4
+2008,Alberta,Employment,"Information, culture and recreation",Females,35.8
+2008,British Columbia,Employment,Goods-producing sector,Males,385.8
+2008,British Columbia,Employment,Goods-producing sector,Females,100.3
+2008,British Columbia,Employment,Construction,Males,188.9
+2008,British Columbia,Employment,Construction,Females,29.2
+2008,British Columbia,Employment,Manufacturing,Males,131.2
+2008,British Columbia,Employment,Manufacturing,Females,46.7
+2008,British Columbia,Employment,Services-producing sector,Males,804.0
+2008,British Columbia,Employment,Services-producing sector,Females,951.8
+2008,British Columbia,Employment,Transportation and warehousing,Males,94.9
+2008,British Columbia,Employment,Transportation and warehousing,Females,28.9
+2008,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Males,58.1
+2008,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Females,80.6
+2008,British Columbia,Employment,"Professional, scientific and technical services",Males,91.4
+2008,British Columbia,Employment,"Professional, scientific and technical services",Females,74.2
+2008,British Columbia,Employment,Educational services,Males,54.3
+2008,British Columbia,Employment,Educational services,Females,99.0
+2008,British Columbia,Employment,Health care and social assistance,Males,48.5
+2008,British Columbia,Employment,Health care and social assistance,Females,192.7
+2008,British Columbia,Employment,"Information, culture and recreation",Males,61.3
+2008,British Columbia,Employment,"Information, culture and recreation",Females,50.9
+2009,Newfoundland and Labrador,Employment,Goods-producing sector,Males,38.8
+2009,Newfoundland and Labrador,Employment,Goods-producing sector,Females,7.6
+2009,Newfoundland and Labrador,Employment,Construction,Males,15.1
+2009,Newfoundland and Labrador,Employment,Construction,Females,1.6
+2009,Newfoundland and Labrador,Employment,Manufacturing,Males,8.4
+2009,Newfoundland and Labrador,Employment,Manufacturing,Females,3.5
+2009,Newfoundland and Labrador,Employment,Services-producing sector,Males,71.1
+2009,Newfoundland and Labrador,Employment,Services-producing sector,Females,97.7
+2009,Newfoundland and Labrador,Employment,Transportation and warehousing,Males,8.8
+2009,Newfoundland and Labrador,Employment,Transportation and warehousing,Females,2.7
+2009,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Males,2.7
+2009,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Females,3.7
+2009,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Males,3.9
+2009,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Females,3.5
+2009,Newfoundland and Labrador,Employment,Educational services,Males,5.9
+2009,Newfoundland and Labrador,Employment,Educational services,Females,10.4
+2009,Newfoundland and Labrador,Employment,Health care and social assistance,Males,5.6
+2009,Newfoundland and Labrador,Employment,Health care and social assistance,Females,29.4
+2009,Newfoundland and Labrador,Employment,"Information, culture and recreation",Males,5.0
+2009,Newfoundland and Labrador,Employment,"Information, culture and recreation",Females,4.1
+2009,Prince Edward Island,Employment,Goods-producing sector,Males,13.5
+2009,Prince Edward Island,Employment,Goods-producing sector,Females,3.6
+2009,Prince Edward Island,Employment,Construction,Males,4.9
+2009,Prince Edward Island,Employment,Construction,Females,0.6
+2009,Prince Edward Island,Employment,Manufacturing,Males,3.7
+2009,Prince Edward Island,Employment,Manufacturing,Females,1.7
+2009,Prince Edward Island,Employment,Services-producing sector,Males,21.0
+2009,Prince Edward Island,Employment,Services-producing sector,Females,30.0
+2009,Prince Edward Island,Employment,Transportation and warehousing,Males,1.9
+2009,Prince Edward Island,Employment,Transportation and warehousing,Females,0.4
+2009,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Males,1.2
+2009,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Females,1.3
+2009,Prince Edward Island,Employment,"Professional, scientific and technical services",Males,1.2
+2009,Prince Edward Island,Employment,"Professional, scientific and technical services",Females,1.0
+2009,Prince Edward Island,Employment,Educational services,Males,1.5
+2009,Prince Edward Island,Employment,Educational services,Females,3.2
+2009,Prince Edward Island,Employment,Health care and social assistance,Males,1.3
+2009,Prince Edward Island,Employment,Health care and social assistance,Females,7.3
+2009,Prince Edward Island,Employment,"Information, culture and recreation",Males,1.3
+2009,Prince Edward Island,Employment,"Information, culture and recreation",Females,1.1
+2009,Nova Scotia,Employment,Goods-producing sector,Males,71.2
+2009,Nova Scotia,Employment,Goods-producing sector,Females,17.1
+2009,Nova Scotia,Employment,Construction,Males,27.3
+2009,Nova Scotia,Employment,Construction,Females,3.0
+2009,Nova Scotia,Employment,Manufacturing,Males,25.8
+2009,Nova Scotia,Employment,Manufacturing,Females,9.5
+2009,Nova Scotia,Employment,Services-producing sector,Males,153.5
+2009,Nova Scotia,Employment,Services-producing sector,Females,207.6
+2009,Nova Scotia,Employment,Transportation and warehousing,Males,15.0
+2009,Nova Scotia,Employment,Transportation and warehousing,Females,4.9
+2009,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Males,8.5
+2009,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Females,12.4
+2009,Nova Scotia,Employment,"Professional, scientific and technical services",Males,11.8
+2009,Nova Scotia,Employment,"Professional, scientific and technical services",Females,8.7
+2009,Nova Scotia,Employment,Educational services,Males,12.3
+2009,Nova Scotia,Employment,Educational services,Females,23.3
+2009,Nova Scotia,Employment,Health care and social assistance,Males,10.7
+2009,Nova Scotia,Employment,Health care and social assistance,Females,55.0
+2009,Nova Scotia,Employment,"Information, culture and recreation",Males,9.5
+2009,Nova Scotia,Employment,"Information, culture and recreation",Females,7.9
+2009,New Brunswick,Employment,Goods-producing sector,Males,64.3
+2009,New Brunswick,Employment,Goods-producing sector,Females,15.1
+2009,New Brunswick,Employment,Construction,Males,23.8
+2009,New Brunswick,Employment,Construction,Females,2.0
+2009,New Brunswick,Employment,Manufacturing,Males,22.9
+2009,New Brunswick,Employment,Manufacturing,Females,8.7
+2009,New Brunswick,Employment,Services-producing sector,Males,120.0
+2009,New Brunswick,Employment,Services-producing sector,Females,160.6
+2009,New Brunswick,Employment,Transportation and warehousing,Males,13.1
+2009,New Brunswick,Employment,Transportation and warehousing,Females,5.7
+2009,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Males,5.9
+2009,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Females,9.2
+2009,New Brunswick,Employment,"Professional, scientific and technical services",Males,9.1
+2009,New Brunswick,Employment,"Professional, scientific and technical services",Females,7.6
+2009,New Brunswick,Employment,Educational services,Males,9.6
+2009,New Brunswick,Employment,Educational services,Females,16.5
+2009,New Brunswick,Employment,Health care and social assistance,Males,9.0
+2009,New Brunswick,Employment,Health care and social assistance,Females,43.1
+2009,New Brunswick,Employment,"Information, culture and recreation",Males,5.3
+2009,New Brunswick,Employment,"Information, culture and recreation",Females,5.6
+2009,Quebec,Employment,Goods-producing sector,Males,660.1
+2009,Quebec,Employment,Goods-producing sector,Females,201.1
+2009,Quebec,Employment,Construction,Males,192.4
+2009,Quebec,Employment,Construction,Females,20.9
+2009,Quebec,Employment,Manufacturing,Males,370.3
+2009,Quebec,Employment,Manufacturing,Females,148.2
+2009,Quebec,Employment,Services-producing sector,Males,1341.3
+2009,Quebec,Employment,Services-producing sector,Females,1651.7
+2009,Quebec,Employment,Transportation and warehousing,Males,131.6
+2009,Quebec,Employment,Transportation and warehousing,Females,42.0
+2009,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Males,94.0
+2009,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Females,139.6
+2009,Quebec,Employment,"Professional, scientific and technical services",Males,156.0
+2009,Quebec,Employment,"Professional, scientific and technical services",Females,111.8
+2009,Quebec,Employment,Educational services,Males,85.0
+2009,Quebec,Employment,Educational services,Females,170.3
+2009,Quebec,Employment,Health care and social assistance,Males,90.4
+2009,Quebec,Employment,Health care and social assistance,Females,396.2
+2009,Quebec,Employment,"Information, culture and recreation",Males,84.2
+2009,Quebec,Employment,"Information, culture and recreation",Females,82.6
+2009,Ontario,Employment,Goods-producing sector,Males,1040.1
+2009,Ontario,Employment,Goods-producing sector,Females,324.9
+2009,Ontario,Employment,Construction,Males,368.7
+2009,Ontario,Employment,Construction,Females,46.1
+2009,Ontario,Employment,Manufacturing,Males,541.5
+2009,Ontario,Employment,Manufacturing,Females,232.1
+2009,Ontario,Employment,Services-producing sector,Males,2260.7
+2009,Ontario,Employment,Services-producing sector,Females,2807.0
+2009,Ontario,Employment,Transportation and warehousing,Males,239.8
+2009,Ontario,Employment,Transportation and warehousing,Females,77.6
+2009,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Males,206.2
+2009,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Females,274.1
+2009,Ontario,Employment,"Professional, scientific and technical services",Males,261.8
+2009,Ontario,Employment,"Professional, scientific and technical services",Females,218.2
+2009,Ontario,Employment,Educational services,Males,147.8
+2009,Ontario,Employment,Educational services,Females,303.1
+2009,Ontario,Employment,Health care and social assistance,Males,116.2
+2009,Ontario,Employment,Health care and social assistance,Females,587.0
+2009,Ontario,Employment,"Information, culture and recreation",Males,163.2
+2009,Ontario,Employment,"Information, culture and recreation",Females,148.8
+2009,Manitoba,Employment,Goods-producing sector,Males,114.0
+2009,Manitoba,Employment,Goods-producing sector,Females,25.8
+2009,Manitoba,Employment,Construction,Males,35.1
+2009,Manitoba,Employment,Construction,Females,3.4
+2009,Manitoba,Employment,Manufacturing,Males,46.2
+2009,Manitoba,Employment,Manufacturing,Females,14.7
+2009,Manitoba,Employment,Services-producing sector,Males,205.4
+2009,Manitoba,Employment,Services-producing sector,Females,255.3
+2009,Manitoba,Employment,Transportation and warehousing,Males,29.5
+2009,Manitoba,Employment,Transportation and warehousing,Females,7.5
+2009,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Males,12.8
+2009,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Females,21.5
+2009,Manitoba,Employment,"Professional, scientific and technical services",Males,12.1
+2009,Manitoba,Employment,"Professional, scientific and technical services",Females,12.0
+2009,Manitoba,Employment,Educational services,Males,16.5
+2009,Manitoba,Employment,Educational services,Females,30.6
+2009,Manitoba,Employment,Health care and social assistance,Males,15.1
+2009,Manitoba,Employment,Health care and social assistance,Females,68.1
+2009,Manitoba,Employment,"Information, culture and recreation",Males,12.3
+2009,Manitoba,Employment,"Information, culture and recreation",Females,10.5
+2009,Saskatchewan,Employment,Goods-producing sector,Males,116.8
+2009,Saskatchewan,Employment,Goods-producing sector,Females,24.3
+2009,Saskatchewan,Employment,Construction,Males,35.3
+2009,Saskatchewan,Employment,Construction,Females,3.6
+2009,Saskatchewan,Employment,Manufacturing,Males,25.0
+2009,Saskatchewan,Employment,Manufacturing,Females,5.2
+2009,Saskatchewan,Employment,Services-producing sector,Males,162.9
+2009,Saskatchewan,Employment,Services-producing sector,Females,221.8
+2009,Saskatchewan,Employment,Transportation and warehousing,Males,19.7
+2009,Saskatchewan,Employment,Transportation and warehousing,Females,4.8
+2009,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Males,9.7
+2009,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Females,18.8
+2009,Saskatchewan,Employment,"Professional, scientific and technical services",Males,12.2
+2009,Saskatchewan,Employment,"Professional, scientific and technical services",Females,10.0
+2009,Saskatchewan,Employment,Educational services,Males,10.5
+2009,Saskatchewan,Employment,Educational services,Females,27.9
+2009,Saskatchewan,Employment,Health care and social assistance,Males,9.0
+2009,Saskatchewan,Employment,Health care and social assistance,Females,58.0
+2009,Saskatchewan,Employment,"Information, culture and recreation",Males,9.8
+2009,Saskatchewan,Employment,"Information, culture and recreation",Females,9.4
+2009,Alberta,Employment,Goods-producing sector,Males,430.3
+2009,Alberta,Employment,Goods-producing sector,Females,110.1
+2009,Alberta,Employment,Construction,Males,174.5
+2009,Alberta,Employment,Construction,Females,27.5
+2009,Alberta,Employment,Manufacturing,Males,95.4
+2009,Alberta,Employment,Manufacturing,Females,28.0
+2009,Alberta,Employment,Services-producing sector,Males,676.5
+2009,Alberta,Employment,Services-producing sector,Females,812.8
+2009,Alberta,Employment,Transportation and warehousing,Males,79.7
+2009,Alberta,Employment,Transportation and warehousing,Females,26.2
+2009,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Males,46.8
+2009,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Females,66.0
+2009,Alberta,Employment,"Professional, scientific and technical services",Males,88.3
+2009,Alberta,Employment,"Professional, scientific and technical services",Females,60.9
+2009,Alberta,Employment,Educational services,Males,39.5
+2009,Alberta,Employment,Educational services,Females,90.2
+2009,Alberta,Employment,Health care and social assistance,Males,30.7
+2009,Alberta,Employment,Health care and social assistance,Females,172.7
+2009,Alberta,Employment,"Information, culture and recreation",Males,36.5
+2009,Alberta,Employment,"Information, culture and recreation",Females,38.3
+2009,British Columbia,Employment,Goods-producing sector,Males,355.0
+2009,British Columbia,Employment,Goods-producing sector,Females,86.3
+2009,British Columbia,Employment,Construction,Males,181.1
+2009,British Columbia,Employment,Construction,Females,22.6
+2009,British Columbia,Employment,Manufacturing,Males,111.6
+2009,British Columbia,Employment,Manufacturing,Females,42.8
+2009,British Columbia,Employment,Services-producing sector,Males,786.7
+2009,British Columbia,Employment,Services-producing sector,Females,963.9
+2009,British Columbia,Employment,Transportation and warehousing,Males,86.7
+2009,British Columbia,Employment,Transportation and warehousing,Females,26.9
+2009,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Males,60.5
+2009,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Females,72.2
+2009,British Columbia,Employment,"Professional, scientific and technical services",Males,87.5
+2009,British Columbia,Employment,"Professional, scientific and technical services",Females,72.3
+2009,British Columbia,Employment,Educational services,Males,51.1
+2009,British Columbia,Employment,Educational services,Females,95.9
+2009,British Columbia,Employment,Health care and social assistance,Males,48.0
+2009,British Columbia,Employment,Health care and social assistance,Females,209.0
+2009,British Columbia,Employment,"Information, culture and recreation",Males,60.1
+2009,British Columbia,Employment,"Information, culture and recreation",Females,51.8
+2010,Newfoundland and Labrador,Employment,Goods-producing sector,Males,38.8
+2010,Newfoundland and Labrador,Employment,Goods-producing sector,Females,8.4
+2010,Newfoundland and Labrador,Employment,Construction,Males,15.3
+2010,Newfoundland and Labrador,Employment,Construction,Females,1.2
+2010,Newfoundland and Labrador,Employment,Manufacturing,Males,6.9
+2010,Newfoundland and Labrador,Employment,Manufacturing,Females,3.4
+2010,Newfoundland and Labrador,Employment,Services-producing sector,Males,73.5
+2010,Newfoundland and Labrador,Employment,Services-producing sector,Females,102.1
+2010,Newfoundland and Labrador,Employment,Transportation and warehousing,Males,9.7
+2010,Newfoundland and Labrador,Employment,Transportation and warehousing,Females,2.5
+2010,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Males,2.8
+2010,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Females,4.1
+2010,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Males,4.0
+2010,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Females,2.8
+2010,Newfoundland and Labrador,Employment,Educational services,Males,6.9
+2010,Newfoundland and Labrador,Employment,Educational services,Females,9.9
+2010,Newfoundland and Labrador,Employment,Health care and social assistance,Males,5.9
+2010,Newfoundland and Labrador,Employment,Health care and social assistance,Females,31.4
+2010,Newfoundland and Labrador,Employment,"Information, culture and recreation",Males,4.2
+2010,Newfoundland and Labrador,Employment,"Information, culture and recreation",Females,3.8
+2010,Prince Edward Island,Employment,Goods-producing sector,Males,13.3
+2010,Prince Edward Island,Employment,Goods-producing sector,Females,3.2
+2010,Prince Edward Island,Employment,Construction,Males,4.7
+2010,Prince Edward Island,Employment,Construction,Females,0.5
+2010,Prince Edward Island,Employment,Manufacturing,Males,3.5
+2010,Prince Edward Island,Employment,Manufacturing,Females,1.5
+2010,Prince Edward Island,Employment,Services-producing sector,Males,22.0
+2010,Prince Edward Island,Employment,Services-producing sector,Females,31.2
+2010,Prince Edward Island,Employment,Transportation and warehousing,Males,1.6
+2010,Prince Edward Island,Employment,Transportation and warehousing,Females,0.6
+2010,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Males,1.1
+2010,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Females,1.2
+2010,Prince Edward Island,Employment,"Professional, scientific and technical services",Males,1.5
+2010,Prince Edward Island,Employment,"Professional, scientific and technical services",Females,1.3
+2010,Prince Edward Island,Employment,Educational services,Males,1.9
+2010,Prince Edward Island,Employment,Educational services,Females,3.7
+2010,Prince Edward Island,Employment,Health care and social assistance,Males,1.6
+2010,Prince Edward Island,Employment,Health care and social assistance,Females,7.0
+2010,Prince Edward Island,Employment,"Information, culture and recreation",Males,1.4
+2010,Prince Edward Island,Employment,"Information, culture and recreation",Females,1.0
+2010,Nova Scotia,Employment,Goods-producing sector,Males,72.4
+2010,Nova Scotia,Employment,Goods-producing sector,Females,15.0
+2010,Nova Scotia,Employment,Construction,Males,29.5
+2010,Nova Scotia,Employment,Construction,Females,3.1
+2010,Nova Scotia,Employment,Manufacturing,Males,25.0
+2010,Nova Scotia,Employment,Manufacturing,Females,7.6
+2010,Nova Scotia,Employment,Services-producing sector,Males,154.7
+2010,Nova Scotia,Employment,Services-producing sector,Females,209.1
+2010,Nova Scotia,Employment,Transportation and warehousing,Males,15.0
+2010,Nova Scotia,Employment,Transportation and warehousing,Females,4.5
+2010,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Males,9.3
+2010,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Females,12.4
+2010,Nova Scotia,Employment,"Professional, scientific and technical services",Males,12.3
+2010,Nova Scotia,Employment,"Professional, scientific and technical services",Females,8.7
+2010,Nova Scotia,Employment,Educational services,Males,10.9
+2010,Nova Scotia,Employment,Educational services,Females,22.5
+2010,Nova Scotia,Employment,Health care and social assistance,Males,12.4
+2010,Nova Scotia,Employment,Health care and social assistance,Females,55.6
+2010,Nova Scotia,Employment,"Information, culture and recreation",Males,10.3
+2010,Nova Scotia,Employment,"Information, culture and recreation",Females,9.3
+2010,New Brunswick,Employment,Goods-producing sector,Males,66.3
+2010,New Brunswick,Employment,Goods-producing sector,Females,13.8
+2010,New Brunswick,Employment,Construction,Males,27.4
+2010,New Brunswick,Employment,Construction,Females,2.3
+2010,New Brunswick,Employment,Manufacturing,Males,22.9
+2010,New Brunswick,Employment,Manufacturing,Females,7.0
+2010,New Brunswick,Employment,Services-producing sector,Males,116.7
+2010,New Brunswick,Employment,Services-producing sector,Females,161.3
+2010,New Brunswick,Employment,Transportation and warehousing,Males,13.6
+2010,New Brunswick,Employment,Transportation and warehousing,Females,4.7
+2010,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Males,5.8
+2010,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Females,9.1
+2010,New Brunswick,Employment,"Professional, scientific and technical services",Males,8.6
+2010,New Brunswick,Employment,"Professional, scientific and technical services",Females,7.6
+2010,New Brunswick,Employment,Educational services,Males,9.2
+2010,New Brunswick,Employment,Educational services,Females,15.9
+2010,New Brunswick,Employment,Health care and social assistance,Males,8.1
+2010,New Brunswick,Employment,Health care and social assistance,Females,46.0
+2010,New Brunswick,Employment,"Information, culture and recreation",Males,5.8
+2010,New Brunswick,Employment,"Information, culture and recreation",Females,5.8
+2010,Quebec,Employment,Goods-producing sector,Males,660.9
+2010,Quebec,Employment,Goods-producing sector,Females,195.9
+2010,Quebec,Employment,Construction,Males,209.4
+2010,Quebec,Employment,Construction,Females,24.6
+2010,Quebec,Employment,Manufacturing,Males,356.5
+2010,Quebec,Employment,Manufacturing,Females,144.0
+2010,Quebec,Employment,Services-producing sector,Males,1395.7
+2010,Quebec,Employment,Services-producing sector,Females,1685.4
+2010,Quebec,Employment,Transportation and warehousing,Males,126.6
+2010,Quebec,Employment,Transportation and warehousing,Females,38.1
+2010,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Males,98.2
+2010,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Females,134.8
+2010,Quebec,Employment,"Professional, scientific and technical services",Males,174.7
+2010,Quebec,Employment,"Professional, scientific and technical services",Females,121.8
+2010,Quebec,Employment,Educational services,Males,83.8
+2010,Quebec,Employment,Educational services,Females,178.1
+2010,Quebec,Employment,Health care and social assistance,Males,101.6
+2010,Quebec,Employment,Health care and social assistance,Females,404.6
+2010,Quebec,Employment,"Information, culture and recreation",Males,91.5
+2010,Quebec,Employment,"Information, culture and recreation",Females,82.2
+2010,Ontario,Employment,Goods-producing sector,Males,1067.5
+2010,Ontario,Employment,Goods-producing sector,Females,313.1
+2010,Ontario,Employment,Construction,Males,396.3
+2010,Ontario,Employment,Construction,Females,45.3
+2010,Ontario,Employment,Manufacturing,Males,543.2
+2010,Ontario,Employment,Manufacturing,Females,220.3
+2010,Ontario,Employment,Services-producing sector,Males,2296.2
+2010,Ontario,Employment,Services-producing sector,Females,2861.1
+2010,Ontario,Employment,Transportation and warehousing,Males,234.7
+2010,Ontario,Employment,Transportation and warehousing,Females,76.6
+2010,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Males,215.3
+2010,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Females,265.4
+2010,Ontario,Employment,"Professional, scientific and technical services",Males,288.7
+2010,Ontario,Employment,"Professional, scientific and technical services",Females,223.2
+2010,Ontario,Employment,Educational services,Males,150.7
+2010,Ontario,Employment,Educational services,Females,305.7
+2010,Ontario,Employment,Health care and social assistance,Males,121.6
+2010,Ontario,Employment,Health care and social assistance,Females,608.3
+2010,Ontario,Employment,"Information, culture and recreation",Males,168.3
+2010,Ontario,Employment,"Information, culture and recreation",Females,151.4
+2010,Manitoba,Employment,Goods-producing sector,Males,114.0
+2010,Manitoba,Employment,Goods-producing sector,Females,25.7
+2010,Manitoba,Employment,Construction,Males,36.3
+2010,Manitoba,Employment,Construction,Females,3.7
+2010,Manitoba,Employment,Manufacturing,Males,44.6
+2010,Manitoba,Employment,Manufacturing,Females,14.5
+2010,Manitoba,Employment,Services-producing sector,Males,208.7
+2010,Manitoba,Employment,Services-producing sector,Females,260.5
+2010,Manitoba,Employment,Transportation and warehousing,Males,28.8
+2010,Manitoba,Employment,Transportation and warehousing,Females,6.7
+2010,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Males,14.0
+2010,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Females,20.5
+2010,Manitoba,Employment,"Professional, scientific and technical services",Males,13.4
+2010,Manitoba,Employment,"Professional, scientific and technical services",Females,10.8
+2010,Manitoba,Employment,Educational services,Males,15.6
+2010,Manitoba,Employment,Educational services,Females,31.6
+2010,Manitoba,Employment,Health care and social assistance,Males,17.7
+2010,Manitoba,Employment,Health care and social assistance,Females,72.4
+2010,Manitoba,Employment,"Information, culture and recreation",Males,11.5
+2010,Manitoba,Employment,"Information, culture and recreation",Females,10.2
+2010,Saskatchewan,Employment,Goods-producing sector,Males,119.7
+2010,Saskatchewan,Employment,Goods-producing sector,Females,26.3
+2010,Saskatchewan,Employment,Construction,Males,39.0
+2010,Saskatchewan,Employment,Construction,Females,4.7
+2010,Saskatchewan,Employment,Manufacturing,Males,23.3
+2010,Saskatchewan,Employment,Manufacturing,Females,6.8
+2010,Saskatchewan,Employment,Services-producing sector,Males,165.3
+2010,Saskatchewan,Employment,Services-producing sector,Females,219.7
+2010,Saskatchewan,Employment,Transportation and warehousing,Males,19.8
+2010,Saskatchewan,Employment,Transportation and warehousing,Females,5.3
+2010,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Males,11.2
+2010,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Females,18.6
+2010,Saskatchewan,Employment,"Professional, scientific and technical services",Males,13.2
+2010,Saskatchewan,Employment,"Professional, scientific and technical services",Females,9.9
+2010,Saskatchewan,Employment,Educational services,Males,10.8
+2010,Saskatchewan,Employment,Educational services,Females,28.3
+2010,Saskatchewan,Employment,Health care and social assistance,Males,10.4
+2010,Saskatchewan,Employment,Health care and social assistance,Females,57.4
+2010,Saskatchewan,Employment,"Information, culture and recreation",Males,8.9
+2010,Saskatchewan,Employment,"Information, culture and recreation",Females,9.7
+2010,Alberta,Employment,Goods-producing sector,Males,431.8
+2010,Alberta,Employment,Goods-producing sector,Females,102.4
+2010,Alberta,Employment,Construction,Males,175.6
+2010,Alberta,Employment,Construction,Females,24.7
+2010,Alberta,Employment,Manufacturing,Males,95.6
+2010,Alberta,Employment,Manufacturing,Females,29.6
+2010,Alberta,Employment,Services-producing sector,Males,672.7
+2010,Alberta,Employment,Services-producing sector,Females,816.8
+2010,Alberta,Employment,Transportation and warehousing,Males,82.9
+2010,Alberta,Employment,Transportation and warehousing,Females,24.8
+2010,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Males,45.3
+2010,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Females,64.9
+2010,Alberta,Employment,"Professional, scientific and technical services",Males,87.1
+2010,Alberta,Employment,"Professional, scientific and technical services",Females,63.3
+2010,Alberta,Employment,Educational services,Males,39.7
+2010,Alberta,Employment,Educational services,Females,89.1
+2010,Alberta,Employment,Health care and social assistance,Males,35.8
+2010,Alberta,Employment,Health care and social assistance,Females,179.8
+2010,Alberta,Employment,"Information, culture and recreation",Males,40.8
+2010,Alberta,Employment,"Information, culture and recreation",Females,34.7
+2010,British Columbia,Employment,Goods-producing sector,Males,354.1
+2010,British Columbia,Employment,Goods-producing sector,Females,82.4
+2010,British Columbia,Employment,Construction,Males,177.3
+2010,British Columbia,Employment,Construction,Females,21.1
+2010,British Columbia,Employment,Manufacturing,Males,114.9
+2010,British Columbia,Employment,Manufacturing,Females,39.7
+2010,British Columbia,Employment,Services-producing sector,Males,807.2
+2010,British Columbia,Employment,Services-producing sector,Females,979.3
+2010,British Columbia,Employment,Transportation and warehousing,Males,89.8
+2010,British Columbia,Employment,Transportation and warehousing,Females,27.9
+2010,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Males,60.7
+2010,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Females,79.1
+2010,British Columbia,Employment,"Professional, scientific and technical services",Males,88.8
+2010,British Columbia,Employment,"Professional, scientific and technical services",Females,74.3
+2010,British Columbia,Employment,Educational services,Males,53.8
+2010,British Columbia,Employment,Educational services,Females,98.1
+2010,British Columbia,Employment,Health care and social assistance,Males,46.5
+2010,British Columbia,Employment,Health care and social assistance,Females,217.3
+2010,British Columbia,Employment,"Information, culture and recreation",Males,62.0
+2010,British Columbia,Employment,"Information, culture and recreation",Females,50.1
+2011,Newfoundland and Labrador,Employment,Goods-producing sector,Males,42.9
+2011,Newfoundland and Labrador,Employment,Goods-producing sector,Females,8.0
+2011,Newfoundland and Labrador,Employment,Construction,Males,17.4
+2011,Newfoundland and Labrador,Employment,Construction,Females,1.8
+2011,Newfoundland and Labrador,Employment,Manufacturing,Males,7.7
+2011,Newfoundland and Labrador,Employment,Manufacturing,Females,3.0
+2011,Newfoundland and Labrador,Employment,Services-producing sector,Males,76.0
+2011,Newfoundland and Labrador,Employment,Services-producing sector,Females,105.0
+2011,Newfoundland and Labrador,Employment,Transportation and warehousing,Males,8.4
+2011,Newfoundland and Labrador,Employment,Transportation and warehousing,Females,2.8
+2011,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Males,3.1
+2011,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Females,4.5
+2011,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Males,5.4
+2011,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Females,3.7
+2011,Newfoundland and Labrador,Employment,Educational services,Males,7.3
+2011,Newfoundland and Labrador,Employment,Educational services,Females,11.0
+2011,Newfoundland and Labrador,Employment,Health care and social assistance,Males,7.6
+2011,Newfoundland and Labrador,Employment,Health care and social assistance,Females,30.2
+2011,Newfoundland and Labrador,Employment,"Information, culture and recreation",Males,3.8
+2011,Newfoundland and Labrador,Employment,"Information, culture and recreation",Females,3.3
+2011,Prince Edward Island,Employment,Goods-producing sector,Males,14.1
+2011,Prince Edward Island,Employment,Goods-producing sector,Females,3.2
+2011,Prince Edward Island,Employment,Construction,Males,5.0
+2011,Prince Edward Island,Employment,Construction,Females,0.3
+2011,Prince Edward Island,Employment,Manufacturing,Males,3.3
+2011,Prince Edward Island,Employment,Manufacturing,Females,1.5
+2011,Prince Edward Island,Employment,Services-producing sector,Males,22.0
+2011,Prince Edward Island,Employment,Services-producing sector,Females,32.6
+2011,Prince Edward Island,Employment,Transportation and warehousing,Males,1.8
+2011,Prince Edward Island,Employment,Transportation and warehousing,Females,0.4
+2011,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Males,1.0
+2011,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Females,1.5
+2011,Prince Edward Island,Employment,"Professional, scientific and technical services",Males,1.7
+2011,Prince Edward Island,Employment,"Professional, scientific and technical services",Females,1.3
+2011,Prince Edward Island,Employment,Educational services,Males,2.3
+2011,Prince Edward Island,Employment,Educational services,Females,4.0
+2011,Prince Edward Island,Employment,Health care and social assistance,Males,1.4
+2011,Prince Edward Island,Employment,Health care and social assistance,Females,7.5
+2011,Prince Edward Island,Employment,"Information, culture and recreation",Males,1.3
+2011,Prince Edward Island,Employment,"Information, culture and recreation",Females,1.2
+2011,Nova Scotia,Employment,Goods-producing sector,Males,71.7
+2011,Nova Scotia,Employment,Goods-producing sector,Females,15.4
+2011,Nova Scotia,Employment,Construction,Males,29.7
+2011,Nova Scotia,Employment,Construction,Females,3.2
+2011,Nova Scotia,Employment,Manufacturing,Males,25.5
+2011,Nova Scotia,Employment,Manufacturing,Females,7.6
+2011,Nova Scotia,Employment,Services-producing sector,Males,156.2
+2011,Nova Scotia,Employment,Services-producing sector,Females,209.7
+2011,Nova Scotia,Employment,Transportation and warehousing,Males,15.9
+2011,Nova Scotia,Employment,Transportation and warehousing,Females,4.9
+2011,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Males,8.7
+2011,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Females,13.8
+2011,Nova Scotia,Employment,"Professional, scientific and technical services",Males,12.8
+2011,Nova Scotia,Employment,"Professional, scientific and technical services",Females,9.7
+2011,Nova Scotia,Employment,Educational services,Males,11.0
+2011,Nova Scotia,Employment,Educational services,Females,22.1
+2011,Nova Scotia,Employment,Health care and social assistance,Males,10.2
+2011,Nova Scotia,Employment,Health care and social assistance,Females,58.1
+2011,Nova Scotia,Employment,"Information, culture and recreation",Males,10.3
+2011,Nova Scotia,Employment,"Information, culture and recreation",Females,8.9
+2011,New Brunswick,Employment,Goods-producing sector,Males,66.5
+2011,New Brunswick,Employment,Goods-producing sector,Females,14.2
+2011,New Brunswick,Employment,Construction,Males,28.8
+2011,New Brunswick,Employment,Construction,Females,1.9
+2011,New Brunswick,Employment,Manufacturing,Males,23.1
+2011,New Brunswick,Employment,Manufacturing,Females,8.3
+2011,New Brunswick,Employment,Services-producing sector,Males,114.3
+2011,New Brunswick,Employment,Services-producing sector,Females,160.4
+2011,New Brunswick,Employment,Transportation and warehousing,Males,14.2
+2011,New Brunswick,Employment,Transportation and warehousing,Females,4.2
+2011,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Males,5.7
+2011,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Females,10.2
+2011,New Brunswick,Employment,"Professional, scientific and technical services",Males,8.6
+2011,New Brunswick,Employment,"Professional, scientific and technical services",Females,7.0
+2011,New Brunswick,Employment,Educational services,Males,8.3
+2011,New Brunswick,Employment,Educational services,Females,15.1
+2011,New Brunswick,Employment,Health care and social assistance,Males,8.3
+2011,New Brunswick,Employment,Health care and social assistance,Females,44.1
+2011,New Brunswick,Employment,"Information, culture and recreation",Males,6.4
+2011,New Brunswick,Employment,"Information, culture and recreation",Females,5.3
+2011,Quebec,Employment,Goods-producing sector,Males,660.8
+2011,Quebec,Employment,Goods-producing sector,Females,204.9
+2011,Quebec,Employment,Construction,Males,222.3
+2011,Quebec,Employment,Construction,Females,27.9
+2011,Quebec,Employment,Manufacturing,Males,346.2
+2011,Quebec,Employment,Manufacturing,Females,145.0
+2011,Quebec,Employment,Services-producing sector,Males,1422.7
+2011,Quebec,Employment,Services-producing sector,Females,1687.2
+2011,Quebec,Employment,Transportation and warehousing,Males,138.9
+2011,Quebec,Employment,Transportation and warehousing,Females,40.2
+2011,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Males,102.1
+2011,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Females,125.0
+2011,Quebec,Employment,"Professional, scientific and technical services",Males,176.5
+2011,Quebec,Employment,"Professional, scientific and technical services",Females,124.0
+2011,Quebec,Employment,Educational services,Males,93.9
+2011,Quebec,Employment,Educational services,Females,170.3
+2011,Quebec,Employment,Health care and social assistance,Males,96.0
+2011,Quebec,Employment,Health care and social assistance,Females,421.3
+2011,Quebec,Employment,"Information, culture and recreation",Males,95.4
+2011,Quebec,Employment,"Information, culture and recreation",Females,76.1
+2011,Ontario,Employment,Goods-producing sector,Males,1079.4
+2011,Ontario,Employment,Goods-producing sector,Females,329.2
+2011,Ontario,Employment,Construction,Males,405.3
+2011,Ontario,Employment,Construction,Females,49.3
+2011,Ontario,Employment,Manufacturing,Males,535.9
+2011,Ontario,Employment,Manufacturing,Females,237.0
+2011,Ontario,Employment,Services-producing sector,Males,2371.0
+2011,Ontario,Employment,Services-producing sector,Females,2878.7
+2011,Ontario,Employment,Transportation and warehousing,Males,239.7
+2011,Ontario,Employment,Transportation and warehousing,Females,82.9
+2011,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Males,217.9
+2011,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Females,279.3
+2011,Ontario,Employment,"Professional, scientific and technical services",Males,307.5
+2011,Ontario,Employment,"Professional, scientific and technical services",Females,222.4
+2011,Ontario,Employment,Educational services,Males,152.9
+2011,Ontario,Employment,Educational services,Females,305.9
+2011,Ontario,Employment,Health care and social assistance,Males,133.1
+2011,Ontario,Employment,Health care and social assistance,Females,618.2
+2011,Ontario,Employment,"Information, culture and recreation",Males,181.1
+2011,Ontario,Employment,"Information, culture and recreation",Females,153.6
+2011,Manitoba,Employment,Goods-producing sector,Males,115.5
+2011,Manitoba,Employment,Goods-producing sector,Females,25.3
+2011,Manitoba,Employment,Construction,Males,39.1
+2011,Manitoba,Employment,Construction,Females,3.9
+2011,Manitoba,Employment,Manufacturing,Males,45.2
+2011,Manitoba,Employment,Manufacturing,Females,14.1
+2011,Manitoba,Employment,Services-producing sector,Males,208.0
+2011,Manitoba,Employment,Services-producing sector,Females,262.8
+2011,Manitoba,Employment,Transportation and warehousing,Males,28.1
+2011,Manitoba,Employment,Transportation and warehousing,Females,6.8
+2011,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Males,14.0
+2011,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Females,21.9
+2011,Manitoba,Employment,"Professional, scientific and technical services",Males,12.7
+2011,Manitoba,Employment,"Professional, scientific and technical services",Females,11.3
+2011,Manitoba,Employment,Educational services,Males,16.0
+2011,Manitoba,Employment,Educational services,Females,29.3
+2011,Manitoba,Employment,Health care and social assistance,Males,19.9
+2011,Manitoba,Employment,Health care and social assistance,Females,75.5
+2011,Manitoba,Employment,"Information, culture and recreation",Males,12.0
+2011,Manitoba,Employment,"Information, culture and recreation",Females,10.0
+2011,Saskatchewan,Employment,Goods-producing sector,Males,120.9
+2011,Saskatchewan,Employment,Goods-producing sector,Females,23.1
+2011,Saskatchewan,Employment,Construction,Males,38.6
+2011,Saskatchewan,Employment,Construction,Females,5.0
+2011,Saskatchewan,Employment,Manufacturing,Males,23.1
+2011,Saskatchewan,Employment,Manufacturing,Females,4.5
+2011,Saskatchewan,Employment,Services-producing sector,Males,168.9
+2011,Saskatchewan,Employment,Services-producing sector,Females,222.9
+2011,Saskatchewan,Employment,Transportation and warehousing,Males,21.2
+2011,Saskatchewan,Employment,Transportation and warehousing,Females,5.8
+2011,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Males,10.9
+2011,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Females,18.4
+2011,Saskatchewan,Employment,"Professional, scientific and technical services",Males,12.4
+2011,Saskatchewan,Employment,"Professional, scientific and technical services",Females,11.4
+2011,Saskatchewan,Employment,Educational services,Males,12.9
+2011,Saskatchewan,Employment,Educational services,Females,26.1
+2011,Saskatchewan,Employment,Health care and social assistance,Males,9.2
+2011,Saskatchewan,Employment,Health care and social assistance,Females,59.1
+2011,Saskatchewan,Employment,"Information, culture and recreation",Males,9.4
+2011,Saskatchewan,Employment,"Information, culture and recreation",Females,9.6
+2011,Alberta,Employment,Goods-producing sector,Males,454.1
+2011,Alberta,Employment,Goods-producing sector,Females,120.2
+2011,Alberta,Employment,Construction,Males,189.1
+2011,Alberta,Employment,Construction,Females,28.9
+2011,Alberta,Employment,Manufacturing,Males,98.7
+2011,Alberta,Employment,Manufacturing,Females,35.1
+2011,Alberta,Employment,Services-producing sector,Males,694.2
+2011,Alberta,Employment,Services-producing sector,Females,831.0
+2011,Alberta,Employment,Transportation and warehousing,Males,85.0
+2011,Alberta,Employment,Transportation and warehousing,Females,25.8
+2011,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Males,41.7
+2011,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Females,56.7
+2011,Alberta,Employment,"Professional, scientific and technical services",Males,93.1
+2011,Alberta,Employment,"Professional, scientific and technical services",Females,69.0
+2011,Alberta,Employment,Educational services,Males,38.3
+2011,Alberta,Employment,Educational services,Females,88.2
+2011,Alberta,Employment,Health care and social assistance,Males,33.3
+2011,Alberta,Employment,Health care and social assistance,Females,188.7
+2011,Alberta,Employment,"Information, culture and recreation",Males,38.0
+2011,Alberta,Employment,"Information, culture and recreation",Females,38.8
+2011,British Columbia,Employment,Goods-producing sector,Males,346.8
+2011,British Columbia,Employment,Goods-producing sector,Females,84.9
+2011,British Columbia,Employment,Construction,Males,177.4
+2011,British Columbia,Employment,Construction,Females,19.7
+2011,British Columbia,Employment,Manufacturing,Males,112.3
+2011,British Columbia,Employment,Manufacturing,Females,44.5
+2011,British Columbia,Employment,Services-producing sector,Males,816.3
+2011,British Columbia,Employment,Services-producing sector,Females,979.8
+2011,British Columbia,Employment,Transportation and warehousing,Males,93.5
+2011,British Columbia,Employment,Transportation and warehousing,Females,28.9
+2011,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Males,62.5
+2011,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Females,77.1
+2011,British Columbia,Employment,"Professional, scientific and technical services",Males,96.5
+2011,British Columbia,Employment,"Professional, scientific and technical services",Females,77.6
+2011,British Columbia,Employment,Educational services,Males,53.8
+2011,British Columbia,Employment,Educational services,Females,101.5
+2011,British Columbia,Employment,Health care and social assistance,Males,49.3
+2011,British Columbia,Employment,Health care and social assistance,Females,213.2
+2011,British Columbia,Employment,"Information, culture and recreation",Males,58.7
+2011,British Columbia,Employment,"Information, culture and recreation",Females,48.9
+2012,Newfoundland and Labrador,Employment,Goods-producing sector,Males,44.5
+2012,Newfoundland and Labrador,Employment,Goods-producing sector,Females,9.1
+2012,Newfoundland and Labrador,Employment,Construction,Males,18.7
+2012,Newfoundland and Labrador,Employment,Construction,Females,1.8
+2012,Newfoundland and Labrador,Employment,Manufacturing,Males,8.6
+2012,Newfoundland and Labrador,Employment,Manufacturing,Females,3.5
+2012,Newfoundland and Labrador,Employment,Services-producing sector,Males,79.7
+2012,Newfoundland and Labrador,Employment,Services-producing sector,Females,107.5
+2012,Newfoundland and Labrador,Employment,Transportation and warehousing,Males,9.1
+2012,Newfoundland and Labrador,Employment,Transportation and warehousing,Females,2.3
+2012,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Males,3.8
+2012,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Females,4.6
+2012,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Males,6.1
+2012,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Females,4.0
+2012,Newfoundland and Labrador,Employment,Educational services,Males,7.0
+2012,Newfoundland and Labrador,Employment,Educational services,Females,11.6
+2012,Newfoundland and Labrador,Employment,Health care and social assistance,Males,7.4
+2012,Newfoundland and Labrador,Employment,Health care and social assistance,Females,31.6
+2012,Newfoundland and Labrador,Employment,"Information, culture and recreation",Males,4.3
+2012,Newfoundland and Labrador,Employment,"Information, culture and recreation",Females,2.9
+2012,Prince Edward Island,Employment,Goods-producing sector,Males,14.4
+2012,Prince Edward Island,Employment,Goods-producing sector,Females,3.4
+2012,Prince Edward Island,Employment,Construction,Males,4.8
+2012,Prince Edward Island,Employment,Construction,Females,0.4
+2012,Prince Edward Island,Employment,Manufacturing,Males,3.4
+2012,Prince Edward Island,Employment,Manufacturing,Females,1.6
+2012,Prince Edward Island,Employment,Services-producing sector,Males,22.2
+2012,Prince Edward Island,Employment,Services-producing sector,Females,33.1
+2012,Prince Edward Island,Employment,Transportation and warehousing,Males,2.0
+2012,Prince Edward Island,Employment,Transportation and warehousing,Females,0.7
+2012,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Males,1.1
+2012,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Females,1.2
+2012,Prince Edward Island,Employment,"Professional, scientific and technical services",Males,1.9
+2012,Prince Edward Island,Employment,"Professional, scientific and technical services",Females,1.4
+2012,Prince Edward Island,Employment,Educational services,Males,1.9
+2012,Prince Edward Island,Employment,Educational services,Females,3.7
+2012,Prince Edward Island,Employment,Health care and social assistance,Males,1.4
+2012,Prince Edward Island,Employment,Health care and social assistance,Females,8.6
+2012,Prince Edward Island,Employment,"Information, culture and recreation",Males,1.3
+2012,Prince Edward Island,Employment,"Information, culture and recreation",Females,1.1
+2012,Nova Scotia,Employment,Goods-producing sector,Males,71.1
+2012,Nova Scotia,Employment,Goods-producing sector,Females,15.4
+2012,Nova Scotia,Employment,Construction,Males,29.0
+2012,Nova Scotia,Employment,Construction,Females,3.3
+2012,Nova Scotia,Employment,Manufacturing,Males,24.7
+2012,Nova Scotia,Employment,Manufacturing,Females,8.1
+2012,Nova Scotia,Employment,Services-producing sector,Males,158.2
+2012,Nova Scotia,Employment,Services-producing sector,Females,212.9
+2012,Nova Scotia,Employment,Transportation and warehousing,Males,16.1
+2012,Nova Scotia,Employment,Transportation and warehousing,Females,4.8
+2012,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Males,9.0
+2012,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Females,12.8
+2012,Nova Scotia,Employment,"Professional, scientific and technical services",Males,14.0
+2012,Nova Scotia,Employment,"Professional, scientific and technical services",Females,9.9
+2012,Nova Scotia,Employment,Educational services,Males,12.0
+2012,Nova Scotia,Employment,Educational services,Females,23.6
+2012,Nova Scotia,Employment,Health care and social assistance,Males,11.0
+2012,Nova Scotia,Employment,Health care and social assistance,Females,59.6
+2012,Nova Scotia,Employment,"Information, culture and recreation",Males,10.8
+2012,Nova Scotia,Employment,"Information, culture and recreation",Females,8.9
+2012,New Brunswick,Employment,Goods-producing sector,Males,62.1
+2012,New Brunswick,Employment,Goods-producing sector,Females,13.6
+2012,New Brunswick,Employment,Construction,Males,25.2
+2012,New Brunswick,Employment,Construction,Females,2.2
+2012,New Brunswick,Employment,Manufacturing,Males,21.0
+2012,New Brunswick,Employment,Manufacturing,Females,7.6
+2012,New Brunswick,Employment,Services-producing sector,Males,117.3
+2012,New Brunswick,Employment,Services-producing sector,Females,160.1
+2012,New Brunswick,Employment,Transportation and warehousing,Males,13.7
+2012,New Brunswick,Employment,Transportation and warehousing,Females,4.5
+2012,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Males,6.4
+2012,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Females,9.6
+2012,New Brunswick,Employment,"Professional, scientific and technical services",Males,7.7
+2012,New Brunswick,Employment,"Professional, scientific and technical services",Females,7.5
+2012,New Brunswick,Employment,Educational services,Males,8.0
+2012,New Brunswick,Employment,Educational services,Females,17.1
+2012,New Brunswick,Employment,Health care and social assistance,Males,8.2
+2012,New Brunswick,Employment,Health care and social assistance,Females,45.5
+2012,New Brunswick,Employment,"Information, culture and recreation",Males,6.2
+2012,New Brunswick,Employment,"Information, culture and recreation",Females,5.7
+2012,Quebec,Employment,Goods-producing sector,Males,672.4
+2012,Quebec,Employment,Goods-producing sector,Females,197.9
+2012,Quebec,Employment,Construction,Males,224.6
+2012,Quebec,Employment,Construction,Females,27.3
+2012,Quebec,Employment,Manufacturing,Males,357.4
+2012,Quebec,Employment,Manufacturing,Females,139.8
+2012,Quebec,Employment,Services-producing sector,Males,1420.4
+2012,Quebec,Employment,Services-producing sector,Females,1715.3
+2012,Quebec,Employment,Transportation and warehousing,Males,141.7
+2012,Quebec,Employment,Transportation and warehousing,Females,38.8
+2012,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Males,95.9
+2012,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Females,124.6
+2012,Quebec,Employment,"Professional, scientific and technical services",Males,174.7
+2012,Quebec,Employment,"Professional, scientific and technical services",Females,126.9
+2012,Quebec,Employment,Educational services,Males,95.2
+2012,Quebec,Employment,Educational services,Females,185.3
+2012,Quebec,Employment,Health care and social assistance,Males,92.2
+2012,Quebec,Employment,Health care and social assistance,Females,434.2
+2012,Quebec,Employment,"Information, culture and recreation",Males,102.3
+2012,Quebec,Employment,"Information, culture and recreation",Females,74.6
+2012,Ontario,Employment,Goods-producing sector,Males,1088.9
+2012,Ontario,Employment,Goods-producing sector,Females,326.5
+2012,Ontario,Employment,Construction,Males,406.6
+2012,Ontario,Employment,Construction,Females,51.8
+2012,Ontario,Employment,Manufacturing,Males,546.5
+2012,Ontario,Employment,Manufacturing,Females,232.7
+2012,Ontario,Employment,Services-producing sector,Males,2382.6
+2012,Ontario,Employment,Services-producing sector,Females,2904.7
+2012,Ontario,Employment,Transportation and warehousing,Males,236.1
+2012,Ontario,Employment,Transportation and warehousing,Females,76.4
+2012,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Males,215.8
+2012,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Females,279.8
+2012,Ontario,Employment,"Professional, scientific and technical services",Males,306.3
+2012,Ontario,Employment,"Professional, scientific and technical services",Females,224.0
+2012,Ontario,Employment,Educational services,Males,153.0
+2012,Ontario,Employment,Educational services,Females,312.1
+2012,Ontario,Employment,Health care and social assistance,Males,135.9
+2012,Ontario,Employment,Health care and social assistance,Females,632.9
+2012,Ontario,Employment,"Information, culture and recreation",Males,173.2
+2012,Ontario,Employment,"Information, culture and recreation",Females,146.5
+2012,Manitoba,Employment,Goods-producing sector,Males,116.8
+2012,Manitoba,Employment,Goods-producing sector,Females,25.1
+2012,Manitoba,Employment,Construction,Males,40.9
+2012,Manitoba,Employment,Construction,Females,3.5
+2012,Manitoba,Employment,Manufacturing,Males,46.6
+2012,Manitoba,Employment,Manufacturing,Females,15.0
+2012,Manitoba,Employment,Services-producing sector,Males,214.4
+2012,Manitoba,Employment,Services-producing sector,Females,265.3
+2012,Manitoba,Employment,Transportation and warehousing,Males,29.6
+2012,Manitoba,Employment,Transportation and warehousing,Females,7.0
+2012,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Males,13.1
+2012,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Females,21.4
+2012,Manitoba,Employment,"Professional, scientific and technical services",Males,14.5
+2012,Manitoba,Employment,"Professional, scientific and technical services",Females,12.2
+2012,Manitoba,Employment,Educational services,Males,15.3
+2012,Manitoba,Employment,Educational services,Females,30.3
+2012,Manitoba,Employment,Health care and social assistance,Males,19.7
+2012,Manitoba,Employment,Health care and social assistance,Females,75.2
+2012,Manitoba,Employment,"Information, culture and recreation",Males,12.0
+2012,Manitoba,Employment,"Information, culture and recreation",Females,10.8
+2012,Saskatchewan,Employment,Goods-producing sector,Males,122.9
+2012,Saskatchewan,Employment,Goods-producing sector,Females,25.7
+2012,Saskatchewan,Employment,Construction,Males,42.7
+2012,Saskatchewan,Employment,Construction,Females,5.5
+2012,Saskatchewan,Employment,Manufacturing,Males,22.3
+2012,Saskatchewan,Employment,Manufacturing,Females,5.4
+2012,Saskatchewan,Employment,Services-producing sector,Males,176.2
+2012,Saskatchewan,Employment,Services-producing sector,Females,223.6
+2012,Saskatchewan,Employment,Transportation and warehousing,Males,21.9
+2012,Saskatchewan,Employment,Transportation and warehousing,Females,5.9
+2012,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Males,11.5
+2012,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Females,17.1
+2012,Saskatchewan,Employment,"Professional, scientific and technical services",Males,13.0
+2012,Saskatchewan,Employment,"Professional, scientific and technical services",Females,10.3
+2012,Saskatchewan,Employment,Educational services,Males,12.7
+2012,Saskatchewan,Employment,Educational services,Females,27.9
+2012,Saskatchewan,Employment,Health care and social assistance,Males,11.8
+2012,Saskatchewan,Employment,Health care and social assistance,Females,59.2
+2012,Saskatchewan,Employment,"Information, culture and recreation",Males,9.7
+2012,Saskatchewan,Employment,"Information, culture and recreation",Females,9.3
+2012,Alberta,Employment,Goods-producing sector,Males,487.4
+2012,Alberta,Employment,Goods-producing sector,Females,135.4
+2012,Alberta,Employment,Construction,Males,201.7
+2012,Alberta,Employment,Construction,Females,34.3
+2012,Alberta,Employment,Manufacturing,Males,103.9
+2012,Alberta,Employment,Manufacturing,Females,33.7
+2012,Alberta,Employment,Services-producing sector,Males,701.5
+2012,Alberta,Employment,Services-producing sector,Females,848.2
+2012,Alberta,Employment,Transportation and warehousing,Males,86.9
+2012,Alberta,Employment,Transportation and warehousing,Females,30.4
+2012,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Males,38.4
+2012,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Females,59.0
+2012,Alberta,Employment,"Professional, scientific and technical services",Males,93.9
+2012,Alberta,Employment,"Professional, scientific and technical services",Females,72.4
+2012,Alberta,Employment,Educational services,Males,42.3
+2012,Alberta,Employment,Educational services,Females,85.9
+2012,Alberta,Employment,Health care and social assistance,Males,36.9
+2012,Alberta,Employment,Health care and social assistance,Females,194.4
+2012,Alberta,Employment,"Information, culture and recreation",Males,35.1
+2012,Alberta,Employment,"Information, culture and recreation",Females,35.3
+2012,British Columbia,Employment,Goods-producing sector,Males,350.4
+2012,British Columbia,Employment,Goods-producing sector,Females,91.1
+2012,British Columbia,Employment,Construction,Males,172.3
+2012,British Columbia,Employment,Construction,Females,26.3
+2012,British Columbia,Employment,Manufacturing,Males,121.2
+2012,British Columbia,Employment,Manufacturing,Females,43.6
+2012,British Columbia,Employment,Services-producing sector,Males,819.5
+2012,British Columbia,Employment,Services-producing sector,Females,1001.5
+2012,British Columbia,Employment,Transportation and warehousing,Males,98.1
+2012,British Columbia,Employment,Transportation and warehousing,Females,31.2
+2012,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Males,57.6
+2012,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Females,78.9
+2012,British Columbia,Employment,"Professional, scientific and technical services",Males,97.3
+2012,British Columbia,Employment,"Professional, scientific and technical services",Females,72.9
+2012,British Columbia,Employment,Educational services,Males,60.2
+2012,British Columbia,Employment,Educational services,Females,104.4
+2012,British Columbia,Employment,Health care and social assistance,Males,51.6
+2012,British Columbia,Employment,Health care and social assistance,Females,223.6
+2012,British Columbia,Employment,"Information, culture and recreation",Males,62.9
+2012,British Columbia,Employment,"Information, culture and recreation",Females,46.0
+2013,Newfoundland and Labrador,Employment,Goods-producing sector,Males,46.4
+2013,Newfoundland and Labrador,Employment,Goods-producing sector,Females,9.4
+2013,Newfoundland and Labrador,Employment,Construction,Males,20.8
+2013,Newfoundland and Labrador,Employment,Construction,Females,2.0
+2013,Newfoundland and Labrador,Employment,Manufacturing,Males,8.5
+2013,Newfoundland and Labrador,Employment,Manufacturing,Females,3.1
+2013,Newfoundland and Labrador,Employment,Services-producing sector,Males,78.8
+2013,Newfoundland and Labrador,Employment,Services-producing sector,Females,108.2
+2013,Newfoundland and Labrador,Employment,Transportation and warehousing,Males,8.7
+2013,Newfoundland and Labrador,Employment,Transportation and warehousing,Females,2.5
+2013,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Males,3.6
+2013,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Females,4.8
+2013,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Males,5.8
+2013,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Females,3.6
+2013,Newfoundland and Labrador,Employment,Educational services,Males,6.9
+2013,Newfoundland and Labrador,Employment,Educational services,Females,11.2
+2013,Newfoundland and Labrador,Employment,Health care and social assistance,Males,6.7
+2013,Newfoundland and Labrador,Employment,Health care and social assistance,Females,32.7
+2013,Newfoundland and Labrador,Employment,"Information, culture and recreation",Males,4.4
+2013,Newfoundland and Labrador,Employment,"Information, culture and recreation",Females,2.6
+2013,Prince Edward Island,Employment,Goods-producing sector,Males,14.0
+2013,Prince Edward Island,Employment,Goods-producing sector,Females,3.4
+2013,Prince Edward Island,Employment,Construction,Males,5.2
+2013,Prince Edward Island,Employment,Construction,Females,0.3
+2013,Prince Edward Island,Employment,Manufacturing,Males,3.2
+2013,Prince Edward Island,Employment,Manufacturing,Females,1.7
+2013,Prince Edward Island,Employment,Services-producing sector,Males,23.1
+2013,Prince Edward Island,Employment,Services-producing sector,Females,33.6
+2013,Prince Edward Island,Employment,Transportation and warehousing,Males,2.0
+2013,Prince Edward Island,Employment,Transportation and warehousing,Females,0.4
+2013,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Males,0.9
+2013,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Females,1.3
+2013,Prince Edward Island,Employment,"Professional, scientific and technical services",Males,1.6
+2013,Prince Edward Island,Employment,"Professional, scientific and technical services",Females,1.5
+2013,Prince Edward Island,Employment,Educational services,Males,1.8
+2013,Prince Edward Island,Employment,Educational services,Females,3.8
+2013,Prince Edward Island,Employment,Health care and social assistance,Males,1.8
+2013,Prince Edward Island,Employment,Health care and social assistance,Females,9.0
+2013,Prince Edward Island,Employment,"Information, culture and recreation",Males,1.6
+2013,Prince Edward Island,Employment,"Information, culture and recreation",Females,1.3
+2013,Nova Scotia,Employment,Goods-producing sector,Males,71.9
+2013,Nova Scotia,Employment,Goods-producing sector,Females,14.9
+2013,Nova Scotia,Employment,Construction,Males,31.2
+2013,Nova Scotia,Employment,Construction,Females,3.5
+2013,Nova Scotia,Employment,Manufacturing,Males,22.9
+2013,Nova Scotia,Employment,Manufacturing,Females,7.8
+2013,Nova Scotia,Employment,Services-producing sector,Males,154.8
+2013,Nova Scotia,Employment,Services-producing sector,Females,211.1
+2013,Nova Scotia,Employment,Transportation and warehousing,Males,14.1
+2013,Nova Scotia,Employment,Transportation and warehousing,Females,5.5
+2013,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Males,8.3
+2013,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Females,12.5
+2013,Nova Scotia,Employment,"Professional, scientific and technical services",Males,14.6
+2013,Nova Scotia,Employment,"Professional, scientific and technical services",Females,12.0
+2013,Nova Scotia,Employment,Educational services,Males,12.3
+2013,Nova Scotia,Employment,Educational services,Females,22.2
+2013,Nova Scotia,Employment,Health care and social assistance,Males,11.4
+2013,Nova Scotia,Employment,Health care and social assistance,Females,58.4
+2013,Nova Scotia,Employment,"Information, culture and recreation",Males,10.1
+2013,Nova Scotia,Employment,"Information, culture and recreation",Females,8.2
+2013,New Brunswick,Employment,Goods-producing sector,Males,63.4
+2013,New Brunswick,Employment,Goods-producing sector,Females,14.4
+2013,New Brunswick,Employment,Construction,Males,26.2
+2013,New Brunswick,Employment,Construction,Females,2.6
+2013,New Brunswick,Employment,Manufacturing,Males,20.2
+2013,New Brunswick,Employment,Manufacturing,Females,8.0
+2013,New Brunswick,Employment,Services-producing sector,Males,115.9
+2013,New Brunswick,Employment,Services-producing sector,Females,160.8
+2013,New Brunswick,Employment,Transportation and warehousing,Males,13.5
+2013,New Brunswick,Employment,Transportation and warehousing,Females,4.3
+2013,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Males,5.6
+2013,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Females,9.8
+2013,New Brunswick,Employment,"Professional, scientific and technical services",Males,9.0
+2013,New Brunswick,Employment,"Professional, scientific and technical services",Females,6.0
+2013,New Brunswick,Employment,Educational services,Males,8.3
+2013,New Brunswick,Employment,Educational services,Females,17.0
+2013,New Brunswick,Employment,Health care and social assistance,Males,9.0
+2013,New Brunswick,Employment,Health care and social assistance,Females,45.3
+2013,New Brunswick,Employment,"Information, culture and recreation",Males,6.1
+2013,New Brunswick,Employment,"Information, culture and recreation",Females,5.8
+2013,Quebec,Employment,Goods-producing sector,Males,692.7
+2013,Quebec,Employment,Goods-producing sector,Females,192.9
+2013,Quebec,Employment,Construction,Males,245.3
+2013,Quebec,Employment,Construction,Females,26.9
+2013,Quebec,Employment,Manufacturing,Males,353.6
+2013,Quebec,Employment,Manufacturing,Females,140.6
+2013,Quebec,Employment,Services-producing sector,Males,1430.1
+2013,Quebec,Employment,Services-producing sector,Females,1745.1
+2013,Quebec,Employment,Transportation and warehousing,Males,140.2
+2013,Quebec,Employment,Transportation and warehousing,Females,42.8
+2013,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Males,92.9
+2013,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Females,124.1
+2013,Quebec,Employment,"Professional, scientific and technical services",Males,179.9
+2013,Quebec,Employment,"Professional, scientific and technical services",Females,126.9
+2013,Quebec,Employment,Educational services,Males,97.6
+2013,Quebec,Employment,Educational services,Females,182.4
+2013,Quebec,Employment,Health care and social assistance,Males,99.1
+2013,Quebec,Employment,Health care and social assistance,Females,454.7
+2013,Quebec,Employment,"Information, culture and recreation",Males,100.9
+2013,Quebec,Employment,"Information, culture and recreation",Females,79.5
+2013,Ontario,Employment,Goods-producing sector,Males,1083.4
+2013,Ontario,Employment,Goods-producing sector,Females,314.1
+2013,Ontario,Employment,Construction,Males,408.5
+2013,Ontario,Employment,Construction,Females,50.6
+2013,Ontario,Employment,Manufacturing,Males,545.2
+2013,Ontario,Employment,Manufacturing,Females,221.8
+2013,Ontario,Employment,Services-producing sector,Males,2439.4
+2013,Ontario,Employment,Services-producing sector,Females,2986.5
+2013,Ontario,Employment,Transportation and warehousing,Males,243.3
+2013,Ontario,Employment,Transportation and warehousing,Females,93.0
+2013,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Males,232.6
+2013,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Females,277.8
+2013,Ontario,Employment,"Professional, scientific and technical services",Males,297.1
+2013,Ontario,Employment,"Professional, scientific and technical services",Females,245.7
+2013,Ontario,Employment,Educational services,Males,156.8
+2013,Ontario,Employment,Educational services,Females,326.5
+2013,Ontario,Employment,Health care and social assistance,Males,136.5
+2013,Ontario,Employment,Health care and social assistance,Females,654.2
+2013,Ontario,Employment,"Information, culture and recreation",Males,167.2
+2013,Ontario,Employment,"Information, culture and recreation",Females,144.4
+2013,Manitoba,Employment,Goods-producing sector,Males,120.4
+2013,Manitoba,Employment,Goods-producing sector,Females,26.2
+2013,Manitoba,Employment,Construction,Males,41.0
+2013,Manitoba,Employment,Construction,Females,4.0
+2013,Manitoba,Employment,Manufacturing,Males,48.0
+2013,Manitoba,Employment,Manufacturing,Females,14.6
+2013,Manitoba,Employment,Services-producing sector,Males,211.9
+2013,Manitoba,Employment,Services-producing sector,Females,267.3
+2013,Manitoba,Employment,Transportation and warehousing,Males,29.7
+2013,Manitoba,Employment,Transportation and warehousing,Females,7.4
+2013,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Males,13.4
+2013,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Females,19.9
+2013,Manitoba,Employment,"Professional, scientific and technical services",Males,15.9
+2013,Manitoba,Employment,"Professional, scientific and technical services",Females,10.8
+2013,Manitoba,Employment,Educational services,Males,14.3
+2013,Manitoba,Employment,Educational services,Females,31.6
+2013,Manitoba,Employment,Health care and social assistance,Males,18.5
+2013,Manitoba,Employment,Health care and social assistance,Females,77.4
+2013,Manitoba,Employment,"Information, culture and recreation",Males,13.3
+2013,Manitoba,Employment,"Information, culture and recreation",Females,11.2
+2013,Saskatchewan,Employment,Goods-producing sector,Males,128.6
+2013,Saskatchewan,Employment,Goods-producing sector,Females,29.9
+2013,Saskatchewan,Employment,Construction,Males,46.3
+2013,Saskatchewan,Employment,Construction,Females,7.1
+2013,Saskatchewan,Employment,Manufacturing,Males,23.6
+2013,Saskatchewan,Employment,Manufacturing,Females,5.9
+2013,Saskatchewan,Employment,Services-producing sector,Males,179.7
+2013,Saskatchewan,Employment,Services-producing sector,Females,227.2
+2013,Saskatchewan,Employment,Transportation and warehousing,Males,21.8
+2013,Saskatchewan,Employment,Transportation and warehousing,Females,6.4
+2013,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Males,11.1
+2013,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Females,16.4
+2013,Saskatchewan,Employment,"Professional, scientific and technical services",Males,14.8
+2013,Saskatchewan,Employment,"Professional, scientific and technical services",Females,11.4
+2013,Saskatchewan,Employment,Educational services,Males,13.4
+2013,Saskatchewan,Employment,Educational services,Females,28.7
+2013,Saskatchewan,Employment,Health care and social assistance,Males,13.0
+2013,Saskatchewan,Employment,Health care and social assistance,Females,61.5
+2013,Saskatchewan,Employment,"Information, culture and recreation",Males,8.6
+2013,Saskatchewan,Employment,"Information, culture and recreation",Females,9.3
+2013,Alberta,Employment,Goods-producing sector,Males,502.6
+2013,Alberta,Employment,Goods-producing sector,Females,139.5
+2013,Alberta,Employment,Construction,Males,205.1
+2013,Alberta,Employment,Construction,Females,38.9
+2013,Alberta,Employment,Manufacturing,Males,106.3
+2013,Alberta,Employment,Manufacturing,Females,36.4
+2013,Alberta,Employment,Services-producing sector,Males,716.6
+2013,Alberta,Employment,Services-producing sector,Females,867.5
+2013,Alberta,Employment,Transportation and warehousing,Males,89.6
+2013,Alberta,Employment,Transportation and warehousing,Females,30.2
+2013,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Males,44.4
+2013,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Females,59.8
+2013,Alberta,Employment,"Professional, scientific and technical services",Males,102.1
+2013,Alberta,Employment,"Professional, scientific and technical services",Females,74.0
+2013,Alberta,Employment,Educational services,Males,38.6
+2013,Alberta,Employment,Educational services,Females,86.3
+2013,Alberta,Employment,Health care and social assistance,Males,38.9
+2013,Alberta,Employment,Health care and social assistance,Females,194.4
+2013,Alberta,Employment,"Information, culture and recreation",Males,37.1
+2013,Alberta,Employment,"Information, culture and recreation",Females,37.8
+2013,British Columbia,Employment,Goods-producing sector,Males,355.9
+2013,British Columbia,Employment,Goods-producing sector,Females,86.2
+2013,British Columbia,Employment,Construction,Males,179.7
+2013,British Columbia,Employment,Construction,Females,24.7
+2013,British Columbia,Employment,Manufacturing,Males,112.9
+2013,British Columbia,Employment,Manufacturing,Females,38.8
+2013,British Columbia,Employment,Services-producing sector,Males,816.8
+2013,British Columbia,Employment,Services-producing sector,Females,1006.6
+2013,British Columbia,Employment,Transportation and warehousing,Males,99.7
+2013,British Columbia,Employment,Transportation and warehousing,Females,27.6
+2013,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Males,63.7
+2013,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Females,75.9
+2013,British Columbia,Employment,"Professional, scientific and technical services",Males,101.7
+2013,British Columbia,Employment,"Professional, scientific and technical services",Females,76.6
+2013,British Columbia,Employment,Educational services,Males,55.3
+2013,British Columbia,Employment,Educational services,Females,111.4
+2013,British Columbia,Employment,Health care and social assistance,Males,48.0
+2013,British Columbia,Employment,Health care and social assistance,Females,219.2
+2013,British Columbia,Employment,"Information, culture and recreation",Males,55.3
+2013,British Columbia,Employment,"Information, culture and recreation",Females,52.1
+2014,Newfoundland and Labrador,Employment,Goods-producing sector,Males,45.9
+2014,Newfoundland and Labrador,Employment,Goods-producing sector,Females,8.7
+2014,Newfoundland and Labrador,Employment,Construction,Males,20.1
+2014,Newfoundland and Labrador,Employment,Construction,Females,2.5
+2014,Newfoundland and Labrador,Employment,Manufacturing,Males,8.3
+2014,Newfoundland and Labrador,Employment,Manufacturing,Females,2.3
+2014,Newfoundland and Labrador,Employment,Services-producing sector,Males,76.4
+2014,Newfoundland and Labrador,Employment,Services-producing sector,Females,107.6
+2014,Newfoundland and Labrador,Employment,Transportation and warehousing,Males,9.0
+2014,Newfoundland and Labrador,Employment,Transportation and warehousing,Females,2.7
+2014,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Males,3.7
+2014,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Females,4.9
+2014,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Males,6.4
+2014,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Females,4.2
+2014,Newfoundland and Labrador,Employment,Educational services,Males,6.3
+2014,Newfoundland and Labrador,Employment,Educational services,Females,11.3
+2014,Newfoundland and Labrador,Employment,Health care and social assistance,Males,6.5
+2014,Newfoundland and Labrador,Employment,Health care and social assistance,Females,31.0
+2014,Newfoundland and Labrador,Employment,"Information, culture and recreation",Males,4.0
+2014,Newfoundland and Labrador,Employment,"Information, culture and recreation",Females,3.6
+2014,Prince Edward Island,Employment,Goods-producing sector,Males,14.4
+2014,Prince Edward Island,Employment,Goods-producing sector,Females,3.6
+2014,Prince Edward Island,Employment,Construction,Males,5.2
+2014,Prince Edward Island,Employment,Construction,Females,0.6
+2014,Prince Edward Island,Employment,Manufacturing,Males,3.7
+2014,Prince Edward Island,Employment,Manufacturing,Females,1.9
+2014,Prince Edward Island,Employment,Services-producing sector,Males,22.9
+2014,Prince Edward Island,Employment,Services-producing sector,Females,33.2
+2014,Prince Edward Island,Employment,Transportation and warehousing,Males,2.3
+2014,Prince Edward Island,Employment,Transportation and warehousing,Females,0.7
+2014,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Males,0.9
+2014,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Females,1.4
+2014,Prince Edward Island,Employment,"Professional, scientific and technical services",Males,1.5
+2014,Prince Edward Island,Employment,"Professional, scientific and technical services",Females,1.4
+2014,Prince Edward Island,Employment,Educational services,Males,1.9
+2014,Prince Edward Island,Employment,Educational services,Females,3.7
+2014,Prince Edward Island,Employment,Health care and social assistance,Males,1.6
+2014,Prince Edward Island,Employment,Health care and social assistance,Females,8.9
+2014,Prince Edward Island,Employment,"Information, culture and recreation",Males,1.3
+2014,Prince Edward Island,Employment,"Information, culture and recreation",Females,1.3
+2014,Nova Scotia,Employment,Goods-producing sector,Males,69.4
+2014,Nova Scotia,Employment,Goods-producing sector,Females,14.6
+2014,Nova Scotia,Employment,Construction,Males,29.8
+2014,Nova Scotia,Employment,Construction,Females,4.2
+2014,Nova Scotia,Employment,Manufacturing,Males,23.0
+2014,Nova Scotia,Employment,Manufacturing,Females,6.9
+2014,Nova Scotia,Employment,Services-producing sector,Males,155.6
+2014,Nova Scotia,Employment,Services-producing sector,Females,208.0
+2014,Nova Scotia,Employment,Transportation and warehousing,Males,16.4
+2014,Nova Scotia,Employment,Transportation and warehousing,Females,4.5
+2014,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Males,9.2
+2014,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Females,13.0
+2014,Nova Scotia,Employment,"Professional, scientific and technical services",Males,15.3
+2014,Nova Scotia,Employment,"Professional, scientific and technical services",Females,10.9
+2014,Nova Scotia,Employment,Educational services,Males,12.0
+2014,Nova Scotia,Employment,Educational services,Females,23.4
+2014,Nova Scotia,Employment,Health care and social assistance,Males,11.1
+2014,Nova Scotia,Employment,Health care and social assistance,Females,58.1
+2014,Nova Scotia,Employment,"Information, culture and recreation",Males,11.1
+2014,Nova Scotia,Employment,"Information, culture and recreation",Females,8.1
+2014,New Brunswick,Employment,Goods-producing sector,Males,62.5
+2014,New Brunswick,Employment,Goods-producing sector,Females,13.7
+2014,New Brunswick,Employment,Construction,Males,26.0
+2014,New Brunswick,Employment,Construction,Females,2.2
+2014,New Brunswick,Employment,Manufacturing,Males,20.8
+2014,New Brunswick,Employment,Manufacturing,Females,7.2
+2014,New Brunswick,Employment,Services-producing sector,Males,116.8
+2014,New Brunswick,Employment,Services-producing sector,Females,160.9
+2014,New Brunswick,Employment,Transportation and warehousing,Males,11.5
+2014,New Brunswick,Employment,Transportation and warehousing,Females,4.8
+2014,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Males,6.5
+2014,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Females,8.4
+2014,New Brunswick,Employment,"Professional, scientific and technical services",Males,9.7
+2014,New Brunswick,Employment,"Professional, scientific and technical services",Females,7.7
+2014,New Brunswick,Employment,Educational services,Males,8.4
+2014,New Brunswick,Employment,Educational services,Females,17.2
+2014,New Brunswick,Employment,Health care and social assistance,Males,8.5
+2014,New Brunswick,Employment,Health care and social assistance,Females,43.5
+2014,New Brunswick,Employment,"Information, culture and recreation",Males,6.5
+2014,New Brunswick,Employment,"Information, culture and recreation",Females,4.5
+2014,Quebec,Employment,Goods-producing sector,Males,670.6
+2014,Quebec,Employment,Goods-producing sector,Females,192.2
+2014,Quebec,Employment,Construction,Males,229.0
+2014,Quebec,Employment,Construction,Females,26.6
+2014,Quebec,Employment,Manufacturing,Males,352.8
+2014,Quebec,Employment,Manufacturing,Females,137.0
+2014,Quebec,Employment,Services-producing sector,Males,1435.7
+2014,Quebec,Employment,Services-producing sector,Females,1761.2
+2014,Quebec,Employment,Transportation and warehousing,Males,147.8
+2014,Quebec,Employment,Transportation and warehousing,Females,37.8
+2014,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Males,100.4
+2014,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Females,117.8
+2014,Quebec,Employment,"Professional, scientific and technical services",Males,174.6
+2014,Quebec,Employment,"Professional, scientific and technical services",Females,124.1
+2014,Quebec,Employment,Educational services,Males,85.9
+2014,Quebec,Employment,Educational services,Females,188.1
+2014,Quebec,Employment,Health care and social assistance,Males,106.3
+2014,Quebec,Employment,Health care and social assistance,Females,462.9
+2014,Quebec,Employment,"Information, culture and recreation",Males,95.0
+2014,Quebec,Employment,"Information, culture and recreation",Females,86.9
+2014,Ontario,Employment,Goods-producing sector,Males,1074.1
+2014,Ontario,Employment,Goods-producing sector,Females,308.0
+2014,Ontario,Employment,Construction,Males,412.1
+2014,Ontario,Employment,Construction,Females,55.3
+2014,Ontario,Employment,Manufacturing,Males,537.8
+2014,Ontario,Employment,Manufacturing,Females,210.8
+2014,Ontario,Employment,Services-producing sector,Males,2493.1
+2014,Ontario,Employment,Services-producing sector,Females,3002.8
+2014,Ontario,Employment,Transportation and warehousing,Males,246.9
+2014,Ontario,Employment,Transportation and warehousing,Females,82.1
+2014,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Males,236.3
+2014,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Females,275.8
+2014,Ontario,Employment,"Professional, scientific and technical services",Males,315.5
+2014,Ontario,Employment,"Professional, scientific and technical services",Females,244.4
+2014,Ontario,Employment,Educational services,Males,154.5
+2014,Ontario,Employment,Educational services,Females,340.2
+2014,Ontario,Employment,Health care and social assistance,Males,135.6
+2014,Ontario,Employment,Health care and social assistance,Females,662.6
+2014,Ontario,Employment,"Information, culture and recreation",Males,173.2
+2014,Ontario,Employment,"Information, culture and recreation",Females,143.3
+2014,Manitoba,Employment,Goods-producing sector,Males,119.1
+2014,Manitoba,Employment,Goods-producing sector,Females,27.8
+2014,Manitoba,Employment,Construction,Males,40.0
+2014,Manitoba,Employment,Construction,Females,3.9
+2014,Manitoba,Employment,Manufacturing,Males,47.6
+2014,Manitoba,Employment,Manufacturing,Females,16.2
+2014,Manitoba,Employment,Services-producing sector,Males,214.3
+2014,Manitoba,Employment,Services-producing sector,Females,265.2
+2014,Manitoba,Employment,Transportation and warehousing,Males,30.2
+2014,Manitoba,Employment,Transportation and warehousing,Females,7.3
+2014,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Males,14.8
+2014,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Females,19.0
+2014,Manitoba,Employment,"Professional, scientific and technical services",Males,13.3
+2014,Manitoba,Employment,"Professional, scientific and technical services",Females,11.4
+2014,Manitoba,Employment,Educational services,Males,16.0
+2014,Manitoba,Employment,Educational services,Females,33.4
+2014,Manitoba,Employment,Health care and social assistance,Males,19.2
+2014,Manitoba,Employment,Health care and social assistance,Females,79.9
+2014,Manitoba,Employment,"Information, culture and recreation",Males,11.7
+2014,Manitoba,Employment,"Information, culture and recreation",Females,10.1
+2014,Saskatchewan,Employment,Goods-producing sector,Males,136.4
+2014,Saskatchewan,Employment,Goods-producing sector,Females,28.1
+2014,Saskatchewan,Employment,Construction,Males,51.2
+2014,Saskatchewan,Employment,Construction,Females,6.0
+2014,Saskatchewan,Employment,Manufacturing,Males,21.8
+2014,Saskatchewan,Employment,Manufacturing,Females,7.1
+2014,Saskatchewan,Employment,Services-producing sector,Males,175.5
+2014,Saskatchewan,Employment,Services-producing sector,Females,231.0
+2014,Saskatchewan,Employment,Transportation and warehousing,Males,22.7
+2014,Saskatchewan,Employment,Transportation and warehousing,Females,6.5
+2014,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Males,12.2
+2014,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Females,17.7
+2014,Saskatchewan,Employment,"Professional, scientific and technical services",Males,15.4
+2014,Saskatchewan,Employment,"Professional, scientific and technical services",Females,11.0
+2014,Saskatchewan,Employment,Educational services,Males,13.0
+2014,Saskatchewan,Employment,Educational services,Females,30.5
+2014,Saskatchewan,Employment,Health care and social assistance,Males,10.2
+2014,Saskatchewan,Employment,Health care and social assistance,Females,63.3
+2014,Saskatchewan,Employment,"Information, culture and recreation",Males,8.3
+2014,Saskatchewan,Employment,"Information, culture and recreation",Females,8.2
+2014,Alberta,Employment,Goods-producing sector,Males,521.8
+2014,Alberta,Employment,Goods-producing sector,Females,136.4
+2014,Alberta,Employment,Construction,Males,218.5
+2014,Alberta,Employment,Construction,Females,37.8
+2014,Alberta,Employment,Manufacturing,Males,112.5
+2014,Alberta,Employment,Manufacturing,Females,32.0
+2014,Alberta,Employment,Services-producing sector,Males,734.1
+2014,Alberta,Employment,Services-producing sector,Females,882.3
+2014,Alberta,Employment,Transportation and warehousing,Males,95.3
+2014,Alberta,Employment,Transportation and warehousing,Females,34.5
+2014,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Males,46.9
+2014,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Females,57.8
+2014,Alberta,Employment,"Professional, scientific and technical services",Males,106.5
+2014,Alberta,Employment,"Professional, scientific and technical services",Females,77.8
+2014,Alberta,Employment,Educational services,Males,36.3
+2014,Alberta,Employment,Educational services,Females,88.4
+2014,Alberta,Employment,Health care and social assistance,Males,43.2
+2014,Alberta,Employment,Health care and social assistance,Females,197.3
+2014,Alberta,Employment,"Information, culture and recreation",Males,36.2
+2014,Alberta,Employment,"Information, culture and recreation",Females,36.3
+2014,British Columbia,Employment,Goods-producing sector,Males,362.5
+2014,British Columbia,Employment,Goods-producing sector,Females,87.4
+2014,British Columbia,Employment,Construction,Males,176.1
+2014,British Columbia,Employment,Construction,Females,24.4
+2014,British Columbia,Employment,Manufacturing,Males,119.5
+2014,British Columbia,Employment,Manufacturing,Females,41.8
+2014,British Columbia,Employment,Services-producing sector,Males,827.1
+2014,British Columbia,Employment,Services-producing sector,Females,1001.5
+2014,British Columbia,Employment,Transportation and warehousing,Males,100.0
+2014,British Columbia,Employment,Transportation and warehousing,Females,33.8
+2014,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Males,56.5
+2014,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Females,80.7
+2014,British Columbia,Employment,"Professional, scientific and technical services",Males,99.7
+2014,British Columbia,Employment,"Professional, scientific and technical services",Females,82.7
+2014,British Columbia,Employment,Educational services,Males,55.8
+2014,British Columbia,Employment,Educational services,Females,110.4
+2014,British Columbia,Employment,Health care and social assistance,Males,49.5
+2014,British Columbia,Employment,Health care and social assistance,Females,220.3
+2014,British Columbia,Employment,"Information, culture and recreation",Males,59.3
+2014,British Columbia,Employment,"Information, culture and recreation",Females,48.4
+2015,Newfoundland and Labrador,Employment,Goods-producing sector,Males,45.1
+2015,Newfoundland and Labrador,Employment,Goods-producing sector,Females,9.0
+2015,Newfoundland and Labrador,Employment,Construction,Males,20.2
+2015,Newfoundland and Labrador,Employment,Construction,Females,2.4
+2015,Newfoundland and Labrador,Employment,Manufacturing,Males,8.0
+2015,Newfoundland and Labrador,Employment,Manufacturing,Females,3.5
+2015,Newfoundland and Labrador,Employment,Services-producing sector,Males,74.2
+2015,Newfoundland and Labrador,Employment,Services-producing sector,Females,107.9
+2015,Newfoundland and Labrador,Employment,Transportation and warehousing,Males,7.8
+2015,Newfoundland and Labrador,Employment,Transportation and warehousing,Females,2.2
+2015,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Males,3.8
+2015,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Females,4.5
+2015,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Males,7.0
+2015,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Females,4.3
+2015,Newfoundland and Labrador,Employment,Educational services,Males,6.3
+2015,Newfoundland and Labrador,Employment,Educational services,Females,8.8
+2015,Newfoundland and Labrador,Employment,Health care and social assistance,Males,6.2
+2015,Newfoundland and Labrador,Employment,Health care and social assistance,Females,31.4
+2015,Newfoundland and Labrador,Employment,"Information, culture and recreation",Males,3.2
+2015,Newfoundland and Labrador,Employment,"Information, culture and recreation",Females,4.1
+2015,Prince Edward Island,Employment,Goods-producing sector,Males,13.4
+2015,Prince Edward Island,Employment,Goods-producing sector,Females,3.8
+2015,Prince Edward Island,Employment,Construction,Males,4.8
+2015,Prince Edward Island,Employment,Construction,Females,0.4
+2015,Prince Edward Island,Employment,Manufacturing,Males,3.9
+2015,Prince Edward Island,Employment,Manufacturing,Females,2.1
+2015,Prince Edward Island,Employment,Services-producing sector,Males,23.5
+2015,Prince Edward Island,Employment,Services-producing sector,Females,32.4
+2015,Prince Edward Island,Employment,Transportation and warehousing,Males,2.0
+2015,Prince Edward Island,Employment,Transportation and warehousing,Females,0.5
+2015,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Males,1.1
+2015,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Females,1.4
+2015,Prince Edward Island,Employment,"Professional, scientific and technical services",Males,1.9
+2015,Prince Edward Island,Employment,"Professional, scientific and technical services",Females,1.2
+2015,Prince Edward Island,Employment,Educational services,Males,1.6
+2015,Prince Edward Island,Employment,Educational services,Females,3.7
+2015,Prince Edward Island,Employment,Health care and social assistance,Males,1.6
+2015,Prince Edward Island,Employment,Health care and social assistance,Females,8.3
+2015,Prince Edward Island,Employment,"Information, culture and recreation",Males,1.5
+2015,Prince Edward Island,Employment,"Information, culture and recreation",Females,0.9
+2015,Nova Scotia,Employment,Goods-producing sector,Males,67.4
+2015,Nova Scotia,Employment,Goods-producing sector,Females,15.6
+2015,Nova Scotia,Employment,Construction,Males,30.0
+2015,Nova Scotia,Employment,Construction,Females,3.6
+2015,Nova Scotia,Employment,Manufacturing,Males,20.5
+2015,Nova Scotia,Employment,Manufacturing,Females,8.2
+2015,Nova Scotia,Employment,Services-producing sector,Males,157.4
+2015,Nova Scotia,Employment,Services-producing sector,Females,207.7
+2015,Nova Scotia,Employment,Transportation and warehousing,Males,16.7
+2015,Nova Scotia,Employment,Transportation and warehousing,Females,3.8
+2015,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Males,9.3
+2015,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Females,14.2
+2015,Nova Scotia,Employment,"Professional, scientific and technical services",Males,16.6
+2015,Nova Scotia,Employment,"Professional, scientific and technical services",Females,11.2
+2015,Nova Scotia,Employment,Educational services,Males,12.3
+2015,Nova Scotia,Employment,Educational services,Females,24.1
+2015,Nova Scotia,Employment,Health care and social assistance,Males,12.7
+2015,Nova Scotia,Employment,Health care and social assistance,Females,59.7
+2015,Nova Scotia,Employment,"Information, culture and recreation",Males,9.1
+2015,Nova Scotia,Employment,"Information, culture and recreation",Females,8.4
+2015,New Brunswick,Employment,Goods-producing sector,Males,59.1
+2015,New Brunswick,Employment,Goods-producing sector,Females,13.6
+2015,New Brunswick,Employment,Construction,Males,22.3
+2015,New Brunswick,Employment,Construction,Females,2.4
+2015,New Brunswick,Employment,Manufacturing,Males,21.8
+2015,New Brunswick,Employment,Manufacturing,Females,7.9
+2015,New Brunswick,Employment,Services-producing sector,Males,118.4
+2015,New Brunswick,Employment,Services-producing sector,Females,160.7
+2015,New Brunswick,Employment,Transportation and warehousing,Males,14.0
+2015,New Brunswick,Employment,Transportation and warehousing,Females,5.1
+2015,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Males,5.0
+2015,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Females,9.6
+2015,New Brunswick,Employment,"Professional, scientific and technical services",Males,9.5
+2015,New Brunswick,Employment,"Professional, scientific and technical services",Females,7.1
+2015,New Brunswick,Employment,Educational services,Males,8.7
+2015,New Brunswick,Employment,Educational services,Females,18.7
+2015,New Brunswick,Employment,Health care and social assistance,Males,7.6
+2015,New Brunswick,Employment,Health care and social assistance,Females,44.3
+2015,New Brunswick,Employment,"Information, culture and recreation",Males,7.0
+2015,New Brunswick,Employment,"Information, culture and recreation",Females,4.7
+2015,Quebec,Employment,Goods-producing sector,Males,652.9
+2015,Quebec,Employment,Goods-producing sector,Females,184.1
+2015,Quebec,Employment,Construction,Males,207.4
+2015,Quebec,Employment,Construction,Females,27.2
+2015,Quebec,Employment,Manufacturing,Males,353.9
+2015,Quebec,Employment,Manufacturing,Females,134.7
+2015,Quebec,Employment,Services-producing sector,Males,1484.0
+2015,Quebec,Employment,Services-producing sector,Females,1776.1
+2015,Quebec,Employment,Transportation and warehousing,Males,156.0
+2015,Quebec,Employment,Transportation and warehousing,Females,40.5
+2015,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Males,91.9
+2015,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Females,123.2
+2015,Quebec,Employment,"Professional, scientific and technical services",Males,178.7
+2015,Quebec,Employment,"Professional, scientific and technical services",Females,136.9
+2015,Quebec,Employment,Educational services,Males,94.1
+2015,Quebec,Employment,Educational services,Females,183.9
+2015,Quebec,Employment,Health care and social assistance,Males,111.5
+2015,Quebec,Employment,Health care and social assistance,Females,465.0
+2015,Quebec,Employment,"Information, culture and recreation",Males,91.8
+2015,Quebec,Employment,"Information, culture and recreation",Females,79.5
+2015,Ontario,Employment,Goods-producing sector,Males,1094.9
+2015,Ontario,Employment,Goods-producing sector,Females,306.6
+2015,Ontario,Employment,Construction,Males,437.1
+2015,Ontario,Employment,Construction,Females,50.2
+2015,Ontario,Employment,Manufacturing,Males,530.7
+2015,Ontario,Employment,Manufacturing,Females,213.9
+2015,Ontario,Employment,Services-producing sector,Males,2512.2
+2015,Ontario,Employment,Services-producing sector,Females,3009.5
+2015,Ontario,Employment,Transportation and warehousing,Males,241.0
+2015,Ontario,Employment,Transportation and warehousing,Females,80.3
+2015,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Males,259.5
+2015,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Females,284.0
+2015,Ontario,Employment,"Professional, scientific and technical services",Males,332.3
+2015,Ontario,Employment,"Professional, scientific and technical services",Females,247.3
+2015,Ontario,Employment,Educational services,Males,169.6
+2015,Ontario,Employment,Educational services,Females,345.3
+2015,Ontario,Employment,Health care and social assistance,Males,141.6
+2015,Ontario,Employment,Health care and social assistance,Females,670.9
+2015,Ontario,Employment,"Information, culture and recreation",Males,172.0
+2015,Ontario,Employment,"Information, culture and recreation",Females,137.5
+2015,Manitoba,Employment,Goods-producing sector,Males,117.0
+2015,Manitoba,Employment,Goods-producing sector,Females,30.4
+2015,Manitoba,Employment,Construction,Males,41.2
+2015,Manitoba,Employment,Construction,Females,4.4
+2015,Manitoba,Employment,Manufacturing,Males,47.7
+2015,Manitoba,Employment,Manufacturing,Females,16.9
+2015,Manitoba,Employment,Services-producing sector,Males,219.8
+2015,Manitoba,Employment,Services-producing sector,Females,269.0
+2015,Manitoba,Employment,Transportation and warehousing,Males,31.3
+2015,Manitoba,Employment,Transportation and warehousing,Females,7.2
+2015,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Males,13.9
+2015,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Females,18.9
+2015,Manitoba,Employment,"Professional, scientific and technical services",Males,13.4
+2015,Manitoba,Employment,"Professional, scientific and technical services",Females,12.0
+2015,Manitoba,Employment,Educational services,Males,17.8
+2015,Manitoba,Employment,Educational services,Females,34.5
+2015,Manitoba,Employment,Health care and social assistance,Males,20.5
+2015,Manitoba,Employment,Health care and social assistance,Females,81.5
+2015,Manitoba,Employment,"Information, culture and recreation",Males,11.9
+2015,Manitoba,Employment,"Information, culture and recreation",Females,10.6
+2015,Saskatchewan,Employment,Goods-producing sector,Males,129.9
+2015,Saskatchewan,Employment,Goods-producing sector,Females,26.8
+2015,Saskatchewan,Employment,Construction,Males,49.9
+2015,Saskatchewan,Employment,Construction,Females,6.3
+2015,Saskatchewan,Employment,Manufacturing,Males,20.7
+2015,Saskatchewan,Employment,Manufacturing,Females,5.5
+2015,Saskatchewan,Employment,Services-producing sector,Males,180.6
+2015,Saskatchewan,Employment,Services-producing sector,Females,236.3
+2015,Saskatchewan,Employment,Transportation and warehousing,Males,22.5
+2015,Saskatchewan,Employment,Transportation and warehousing,Females,7.0
+2015,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Males,12.2
+2015,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Females,18.5
+2015,Saskatchewan,Employment,"Professional, scientific and technical services",Males,13.7
+2015,Saskatchewan,Employment,"Professional, scientific and technical services",Females,11.4
+2015,Saskatchewan,Employment,Educational services,Males,12.9
+2015,Saskatchewan,Employment,Educational services,Females,30.6
+2015,Saskatchewan,Employment,Health care and social assistance,Males,12.5
+2015,Saskatchewan,Employment,Health care and social assistance,Females,65.5
+2015,Saskatchewan,Employment,"Information, culture and recreation",Males,9.9
+2015,Saskatchewan,Employment,"Information, culture and recreation",Females,9.0
+2015,Alberta,Employment,Goods-producing sector,Males,508.1
+2015,Alberta,Employment,Goods-producing sector,Females,133.6
+2015,Alberta,Employment,Construction,Males,223.5
+2015,Alberta,Employment,Construction,Females,36.4
+2015,Alberta,Employment,Manufacturing,Males,104.9
+2015,Alberta,Employment,Manufacturing,Females,35.0
+2015,Alberta,Employment,Services-producing sector,Males,754.4
+2015,Alberta,Employment,Services-producing sector,Females,905.1
+2015,Alberta,Employment,Transportation and warehousing,Males,100.8
+2015,Alberta,Employment,Transportation and warehousing,Females,38.5
+2015,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Males,46.0
+2015,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Females,57.5
+2015,Alberta,Employment,"Professional, scientific and technical services",Males,98.9
+2015,Alberta,Employment,"Professional, scientific and technical services",Females,74.2
+2015,Alberta,Employment,Educational services,Males,44.0
+2015,Alberta,Employment,Educational services,Females,93.9
+2015,Alberta,Employment,Health care and social assistance,Males,44.1
+2015,Alberta,Employment,Health care and social assistance,Females,220.0
+2015,Alberta,Employment,"Information, culture and recreation",Males,41.5
+2015,Alberta,Employment,"Information, culture and recreation",Females,33.4
+2015,British Columbia,Employment,Goods-producing sector,Males,365.7
+2015,British Columbia,Employment,Goods-producing sector,Females,93.3
+2015,British Columbia,Employment,Construction,Males,176.6
+2015,British Columbia,Employment,Construction,Females,24.9
+2015,British Columbia,Employment,Manufacturing,Males,125.8
+2015,British Columbia,Employment,Manufacturing,Females,46.8
+2015,British Columbia,Employment,Services-producing sector,Males,844.7
+2015,British Columbia,Employment,Services-producing sector,Females,1002.5
+2015,British Columbia,Employment,Transportation and warehousing,Males,108.4
+2015,British Columbia,Employment,Transportation and warehousing,Females,31.6
+2015,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Males,57.6
+2015,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Females,71.0
+2015,British Columbia,Employment,"Professional, scientific and technical services",Males,106.7
+2015,British Columbia,Employment,"Professional, scientific and technical services",Females,81.4
+2015,British Columbia,Employment,Educational services,Males,56.8
+2015,British Columbia,Employment,Educational services,Females,106.6
+2015,British Columbia,Employment,Health care and social assistance,Males,55.4
+2015,British Columbia,Employment,Health care and social assistance,Females,232.0
+2015,British Columbia,Employment,"Information, culture and recreation",Males,62.2
+2015,British Columbia,Employment,"Information, culture and recreation",Females,52.3
+2016,Newfoundland and Labrador,Employment,Goods-producing sector,Males,41.6
+2016,Newfoundland and Labrador,Employment,Goods-producing sector,Females,8.8
+2016,Newfoundland and Labrador,Employment,Construction,Males,19.7
+2016,Newfoundland and Labrador,Employment,Construction,Females,2.2
+2016,Newfoundland and Labrador,Employment,Manufacturing,Males,7.1
+2016,Newfoundland and Labrador,Employment,Manufacturing,Females,2.7
+2016,Newfoundland and Labrador,Employment,Services-producing sector,Males,76.2
+2016,Newfoundland and Labrador,Employment,Services-producing sector,Females,105.9
+2016,Newfoundland and Labrador,Employment,Transportation and warehousing,Males,7.2
+2016,Newfoundland and Labrador,Employment,Transportation and warehousing,Females,2.5
+2016,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Males,3.8
+2016,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Females,4.1
+2016,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Males,5.5
+2016,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Females,5.0
+2016,Newfoundland and Labrador,Employment,Educational services,Males,5.6
+2016,Newfoundland and Labrador,Employment,Educational services,Females,8.7
+2016,Newfoundland and Labrador,Employment,Health care and social assistance,Males,6.7
+2016,Newfoundland and Labrador,Employment,Health care and social assistance,Females,32.5
+2016,Newfoundland and Labrador,Employment,"Information, culture and recreation",Males,3.8
+2016,Newfoundland and Labrador,Employment,"Information, culture and recreation",Females,3.3
+2016,Prince Edward Island,Employment,Goods-producing sector,Males,13.6
+2016,Prince Edward Island,Employment,Goods-producing sector,Females,3.0
+2016,Prince Edward Island,Employment,Construction,Males,4.4
+2016,Prince Edward Island,Employment,Construction,Females,0.3
+2016,Prince Edward Island,Employment,Manufacturing,Males,4.3
+2016,Prince Edward Island,Employment,Manufacturing,Females,1.7
+2016,Prince Edward Island,Employment,Services-producing sector,Males,22.4
+2016,Prince Edward Island,Employment,Services-producing sector,Females,32.6
+2016,Prince Edward Island,Employment,Transportation and warehousing,Males,1.8
+2016,Prince Edward Island,Employment,Transportation and warehousing,Females,0.6
+2016,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Males,1.2
+2016,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Females,1.5
+2016,Prince Edward Island,Employment,"Professional, scientific and technical services",Males,2.1
+2016,Prince Edward Island,Employment,"Professional, scientific and technical services",Females,1.5
+2016,Prince Edward Island,Employment,Educational services,Males,1.6
+2016,Prince Edward Island,Employment,Educational services,Females,3.5
+2016,Prince Edward Island,Employment,Health care and social assistance,Males,1.5
+2016,Prince Edward Island,Employment,Health care and social assistance,Females,8.6
+2016,Prince Edward Island,Employment,"Information, culture and recreation",Males,1.4
+2016,Prince Edward Island,Employment,"Information, culture and recreation",Females,1.2
+2016,Nova Scotia,Employment,Goods-producing sector,Males,67.6
+2016,Nova Scotia,Employment,Goods-producing sector,Females,13.6
+2016,Nova Scotia,Employment,Construction,Males,29.7
+2016,Nova Scotia,Employment,Construction,Females,3.2
+2016,Nova Scotia,Employment,Manufacturing,Males,21.7
+2016,Nova Scotia,Employment,Manufacturing,Females,7.4
+2016,Nova Scotia,Employment,Services-producing sector,Males,155.1
+2016,Nova Scotia,Employment,Services-producing sector,Females,209.9
+2016,Nova Scotia,Employment,Transportation and warehousing,Males,16.0
+2016,Nova Scotia,Employment,Transportation and warehousing,Females,4.3
+2016,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Males,9.9
+2016,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Females,13.7
+2016,Nova Scotia,Employment,"Professional, scientific and technical services",Males,15.9
+2016,Nova Scotia,Employment,"Professional, scientific and technical services",Females,11.6
+2016,Nova Scotia,Employment,Educational services,Males,11.8
+2016,Nova Scotia,Employment,Educational services,Females,24.9
+2016,Nova Scotia,Employment,Health care and social assistance,Males,13.9
+2016,Nova Scotia,Employment,Health care and social assistance,Females,61.0
+2016,Nova Scotia,Employment,"Information, culture and recreation",Males,8.7
+2016,Nova Scotia,Employment,"Information, culture and recreation",Females,7.4
+2016,New Brunswick,Employment,Goods-producing sector,Males,59.7
+2016,New Brunswick,Employment,Goods-producing sector,Females,13.2
+2016,New Brunswick,Employment,Construction,Males,21.6
+2016,New Brunswick,Employment,Construction,Females,2.5
+2016,New Brunswick,Employment,Manufacturing,Males,23.3
+2016,New Brunswick,Employment,Manufacturing,Females,7.1
+2016,New Brunswick,Employment,Services-producing sector,Males,117.2
+2016,New Brunswick,Employment,Services-producing sector,Females,161.4
+2016,New Brunswick,Employment,Transportation and warehousing,Males,15.0
+2016,New Brunswick,Employment,Transportation and warehousing,Females,4.1
+2016,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Males,6.7
+2016,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Females,10.2
+2016,New Brunswick,Employment,"Professional, scientific and technical services",Males,8.9
+2016,New Brunswick,Employment,"Professional, scientific and technical services",Females,6.1
+2016,New Brunswick,Employment,Educational services,Males,8.4
+2016,New Brunswick,Employment,Educational services,Females,17.0
+2016,New Brunswick,Employment,Health care and social assistance,Males,8.0
+2016,New Brunswick,Employment,Health care and social assistance,Females,45.5
+2016,New Brunswick,Employment,"Information, culture and recreation",Males,6.8
+2016,New Brunswick,Employment,"Information, culture and recreation",Females,5.6
+2016,Quebec,Employment,Goods-producing sector,Males,650.2
+2016,Quebec,Employment,Goods-producing sector,Females,194.2
+2016,Quebec,Employment,Construction,Males,207.4
+2016,Quebec,Employment,Construction,Females,28.6
+2016,Quebec,Employment,Manufacturing,Males,356.3
+2016,Quebec,Employment,Manufacturing,Females,136.8
+2016,Quebec,Employment,Services-producing sector,Males,1498.3
+2016,Quebec,Employment,Services-producing sector,Females,1790.4
+2016,Quebec,Employment,Transportation and warehousing,Males,147.5
+2016,Quebec,Employment,Transportation and warehousing,Females,48.1
+2016,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Males,99.5
+2016,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Females,116.6
+2016,Quebec,Employment,"Professional, scientific and technical services",Males,179.5
+2016,Quebec,Employment,"Professional, scientific and technical services",Females,132.4
+2016,Quebec,Employment,Educational services,Males,90.2
+2016,Quebec,Employment,Educational services,Females,190.0
+2016,Quebec,Employment,Health care and social assistance,Males,104.7
+2016,Quebec,Employment,Health care and social assistance,Females,477.1
+2016,Quebec,Employment,"Information, culture and recreation",Males,100.1
+2016,Quebec,Employment,"Information, culture and recreation",Females,79.5
+2016,Ontario,Employment,Goods-producing sector,Males,1087.8
+2016,Ontario,Employment,Goods-producing sector,Females,330.4
+2016,Ontario,Employment,Construction,Males,445.4
+2016,Ontario,Employment,Construction,Females,58.3
+2016,Ontario,Employment,Manufacturing,Males,525.3
+2016,Ontario,Employment,Manufacturing,Females,226.2
+2016,Ontario,Employment,Services-producing sector,Males,2548.1
+2016,Ontario,Employment,Services-producing sector,Females,3033.3
+2016,Ontario,Employment,Transportation and warehousing,Males,254.1
+2016,Ontario,Employment,Transportation and warehousing,Females,73.1
+2016,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Males,258.6
+2016,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Females,296.7
+2016,Ontario,Employment,"Professional, scientific and technical services",Males,348.2
+2016,Ontario,Employment,"Professional, scientific and technical services",Females,246.4
+2016,Ontario,Employment,Educational services,Males,169.7
+2016,Ontario,Employment,Educational services,Females,333.1
+2016,Ontario,Employment,Health care and social assistance,Males,143.1
+2016,Ontario,Employment,Health care and social assistance,Females,695.3
+2016,Ontario,Employment,"Information, culture and recreation",Males,171.1
+2016,Ontario,Employment,"Information, culture and recreation",Females,146.9
+2016,Manitoba,Employment,Goods-producing sector,Males,120.5
+2016,Manitoba,Employment,Goods-producing sector,Females,30.8
+2016,Manitoba,Employment,Construction,Males,41.5
+2016,Manitoba,Employment,Construction,Females,5.6
+2016,Manitoba,Employment,Manufacturing,Males,47.0
+2016,Manitoba,Employment,Manufacturing,Females,16.6
+2016,Manitoba,Employment,Services-producing sector,Males,214.7
+2016,Manitoba,Employment,Services-producing sector,Females,267.6
+2016,Manitoba,Employment,Transportation and warehousing,Males,27.6
+2016,Manitoba,Employment,Transportation and warehousing,Females,7.9
+2016,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Males,14.4
+2016,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Females,19.6
+2016,Manitoba,Employment,"Professional, scientific and technical services",Males,14.8
+2016,Manitoba,Employment,"Professional, scientific and technical services",Females,12.8
+2016,Manitoba,Employment,Educational services,Males,17.5
+2016,Manitoba,Employment,Educational services,Females,32.6
+2016,Manitoba,Employment,Health care and social assistance,Males,18.0
+2016,Manitoba,Employment,Health care and social assistance,Females,83.8
+2016,Manitoba,Employment,"Information, culture and recreation",Males,12.6
+2016,Manitoba,Employment,"Information, culture and recreation",Females,10.7
+2016,Saskatchewan,Employment,Goods-producing sector,Males,124.5
+2016,Saskatchewan,Employment,Goods-producing sector,Females,25.5
+2016,Saskatchewan,Employment,Construction,Males,46.3
+2016,Saskatchewan,Employment,Construction,Females,5.0
+2016,Saskatchewan,Employment,Manufacturing,Males,20.8
+2016,Saskatchewan,Employment,Manufacturing,Females,4.9
+2016,Saskatchewan,Employment,Services-producing sector,Males,183.9
+2016,Saskatchewan,Employment,Services-producing sector,Females,234.6
+2016,Saskatchewan,Employment,Transportation and warehousing,Males,22.2
+2016,Saskatchewan,Employment,Transportation and warehousing,Females,5.7
+2016,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Males,11.7
+2016,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Females,16.8
+2016,Saskatchewan,Employment,"Professional, scientific and technical services",Males,15.1
+2016,Saskatchewan,Employment,"Professional, scientific and technical services",Females,13.0
+2016,Saskatchewan,Employment,Educational services,Males,12.5
+2016,Saskatchewan,Employment,Educational services,Females,28.4
+2016,Saskatchewan,Employment,Health care and social assistance,Males,13.0
+2016,Saskatchewan,Employment,Health care and social assistance,Females,65.8
+2016,Saskatchewan,Employment,"Information, culture and recreation",Males,10.6
+2016,Saskatchewan,Employment,"Information, culture and recreation",Females,9.8
+2016,Alberta,Employment,Goods-producing sector,Males,464.2
+2016,Alberta,Employment,Goods-producing sector,Females,113.7
+2016,Alberta,Employment,Construction,Males,219.7
+2016,Alberta,Employment,Construction,Females,32.2
+2016,Alberta,Employment,Manufacturing,Males,87.3
+2016,Alberta,Employment,Manufacturing,Females,28.2
+2016,Alberta,Employment,Services-producing sector,Males,769.3
+2016,Alberta,Employment,Services-producing sector,Females,916.5
+2016,Alberta,Employment,Transportation and warehousing,Males,100.0
+2016,Alberta,Employment,Transportation and warehousing,Females,31.7
+2016,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Males,46.6
+2016,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Females,59.4
+2016,Alberta,Employment,"Professional, scientific and technical services",Males,103.0
+2016,Alberta,Employment,"Professional, scientific and technical services",Females,76.3
+2016,Alberta,Employment,Educational services,Males,46.8
+2016,Alberta,Employment,Educational services,Females,102.7
+2016,Alberta,Employment,Health care and social assistance,Males,45.9
+2016,Alberta,Employment,Health care and social assistance,Females,223.5
+2016,Alberta,Employment,"Information, culture and recreation",Males,39.8
+2016,Alberta,Employment,"Information, culture and recreation",Females,36.5
+2016,British Columbia,Employment,Goods-producing sector,Males,377.3
+2016,British Columbia,Employment,Goods-producing sector,Females,92.9
+2016,British Columbia,Employment,Construction,Males,186.8
+2016,British Columbia,Employment,Construction,Females,24.5
+2016,British Columbia,Employment,Manufacturing,Males,125.3
+2016,British Columbia,Employment,Manufacturing,Females,44.8
+2016,British Columbia,Employment,Services-producing sector,Males,862.8
+2016,British Columbia,Employment,Services-producing sector,Females,1046.6
+2016,British Columbia,Employment,Transportation and warehousing,Males,103.9
+2016,British Columbia,Employment,Transportation and warehousing,Females,33.9
+2016,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Males,60.7
+2016,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Females,75.1
+2016,British Columbia,Employment,"Professional, scientific and technical services",Males,104.9
+2016,British Columbia,Employment,"Professional, scientific and technical services",Females,90.5
+2016,British Columbia,Employment,Educational services,Males,52.6
+2016,British Columbia,Employment,Educational services,Females,112.4
+2016,British Columbia,Employment,Health care and social assistance,Males,53.4
+2016,British Columbia,Employment,Health care and social assistance,Females,238.2
+2016,British Columbia,Employment,"Information, culture and recreation",Males,73.6
+2016,British Columbia,Employment,"Information, culture and recreation",Females,53.0
+2017,Newfoundland and Labrador,Employment,Goods-producing sector,Males,38.6
+2017,Newfoundland and Labrador,Employment,Goods-producing sector,Females,8.2
+2017,Newfoundland and Labrador,Employment,Construction,Males,18.3
+2017,Newfoundland and Labrador,Employment,Construction,Females,2.4
+2017,Newfoundland and Labrador,Employment,Manufacturing,Males,6.1
+2017,Newfoundland and Labrador,Employment,Manufacturing,Females,2.9
+2017,Newfoundland and Labrador,Employment,Services-producing sector,Males,72.4
+2017,Newfoundland and Labrador,Employment,Services-producing sector,Females,104.9
+2017,Newfoundland and Labrador,Employment,Transportation and warehousing,Males,8.2
+2017,Newfoundland and Labrador,Employment,Transportation and warehousing,Females,3.0
+2017,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Males,2.3
+2017,Newfoundland and Labrador,Employment,"Finance, insurance, real estate, rental and leasing",Females,4.0
+2017,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Males,5.4
+2017,Newfoundland and Labrador,Employment,"Professional, scientific and technical services",Females,4.4
+2017,Newfoundland and Labrador,Employment,Educational services,Males,5.5
+2017,Newfoundland and Labrador,Employment,Educational services,Females,9.7
+2017,Newfoundland and Labrador,Employment,Health care and social assistance,Males,6.6
+2017,Newfoundland and Labrador,Employment,Health care and social assistance,Females,32.7
+2017,Newfoundland and Labrador,Employment,"Information, culture and recreation",Males,3.4
+2017,Newfoundland and Labrador,Employment,"Information, culture and recreation",Females,3.1
+2017,Prince Edward Island,Employment,Goods-producing sector,Males,13.9
+2017,Prince Edward Island,Employment,Goods-producing sector,Females,3.7
+2017,Prince Edward Island,Employment,Construction,Males,4.8
+2017,Prince Edward Island,Employment,Construction,Females,0.6
+2017,Prince Edward Island,Employment,Manufacturing,Males,4.5
+2017,Prince Edward Island,Employment,Manufacturing,Females,2.0
+2017,Prince Edward Island,Employment,Services-producing sector,Males,23.5
+2017,Prince Edward Island,Employment,Services-producing sector,Females,32.6
+2017,Prince Edward Island,Employment,Transportation and warehousing,Males,2.3
+2017,Prince Edward Island,Employment,Transportation and warehousing,Females,0.4
+2017,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Males,1.2
+2017,Prince Edward Island,Employment,"Finance, insurance, real estate, rental and leasing",Females,1.5
+2017,Prince Edward Island,Employment,"Professional, scientific and technical services",Males,2.0
+2017,Prince Edward Island,Employment,"Professional, scientific and technical services",Females,1.5
+2017,Prince Edward Island,Employment,Educational services,Males,1.5
+2017,Prince Edward Island,Employment,Educational services,Females,3.8
+2017,Prince Edward Island,Employment,Health care and social assistance,Males,1.7
+2017,Prince Edward Island,Employment,Health care and social assistance,Females,8.8
+2017,Prince Edward Island,Employment,"Information, culture and recreation",Males,1.5
+2017,Prince Edward Island,Employment,"Information, culture and recreation",Females,1.2
+2017,Nova Scotia,Employment,Goods-producing sector,Males,66.8
+2017,Nova Scotia,Employment,Goods-producing sector,Females,14.5
+2017,Nova Scotia,Employment,Construction,Males,28.5
+2017,Nova Scotia,Employment,Construction,Females,3.1
+2017,Nova Scotia,Employment,Manufacturing,Males,23.6
+2017,Nova Scotia,Employment,Manufacturing,Females,7.4
+2017,Nova Scotia,Employment,Services-producing sector,Males,156.3
+2017,Nova Scotia,Employment,Services-producing sector,Females,211.4
+2017,Nova Scotia,Employment,Transportation and warehousing,Males,15.5
+2017,Nova Scotia,Employment,Transportation and warehousing,Females,4.0
+2017,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Males,9.8
+2017,Nova Scotia,Employment,"Finance, insurance, real estate, rental and leasing",Females,13.0
+2017,Nova Scotia,Employment,"Professional, scientific and technical services",Males,17.0
+2017,Nova Scotia,Employment,"Professional, scientific and technical services",Females,11.4
+2017,Nova Scotia,Employment,Educational services,Males,13.2
+2017,Nova Scotia,Employment,Educational services,Females,23.2
+2017,Nova Scotia,Employment,Health care and social assistance,Males,12.1
+2017,Nova Scotia,Employment,Health care and social assistance,Females,59.9
+2017,Nova Scotia,Employment,"Information, culture and recreation",Males,7.8
+2017,Nova Scotia,Employment,"Information, culture and recreation",Females,8.2
+2017,New Brunswick,Employment,Goods-producing sector,Males,59.2
+2017,New Brunswick,Employment,Goods-producing sector,Females,14.1
+2017,New Brunswick,Employment,Construction,Males,22.0
+2017,New Brunswick,Employment,Construction,Females,2.8
+2017,New Brunswick,Employment,Manufacturing,Males,23.9
+2017,New Brunswick,Employment,Manufacturing,Females,7.8
+2017,New Brunswick,Employment,Services-producing sector,Males,120.0
+2017,New Brunswick,Employment,Services-producing sector,Females,159.7
+2017,New Brunswick,Employment,Transportation and warehousing,Males,13.2
+2017,New Brunswick,Employment,Transportation and warehousing,Females,4.2
+2017,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Males,7.5
+2017,New Brunswick,Employment,"Finance, insurance, real estate, rental and leasing",Females,9.5
+2017,New Brunswick,Employment,"Professional, scientific and technical services",Males,9.1
+2017,New Brunswick,Employment,"Professional, scientific and technical services",Females,6.4
+2017,New Brunswick,Employment,Educational services,Males,8.5
+2017,New Brunswick,Employment,Educational services,Females,17.7
+2017,New Brunswick,Employment,Health care and social assistance,Males,9.5
+2017,New Brunswick,Employment,Health care and social assistance,Females,48.3
+2017,New Brunswick,Employment,"Information, culture and recreation",Males,5.9
+2017,New Brunswick,Employment,"Information, culture and recreation",Females,4.9
+2017,Quebec,Employment,Goods-producing sector,Males,656.3
+2017,Quebec,Employment,Goods-producing sector,Females,200.0
+2017,Quebec,Employment,Construction,Males,214.1
+2017,Quebec,Employment,Construction,Females,31.7
+2017,Quebec,Employment,Manufacturing,Males,355.8
+2017,Quebec,Employment,Manufacturing,Females,136.3
+2017,Quebec,Employment,Services-producing sector,Males,1556.9
+2017,Quebec,Employment,Services-producing sector,Females,1810.0
+2017,Quebec,Employment,Transportation and warehousing,Males,166.0
+2017,Quebec,Employment,Transportation and warehousing,Females,40.8
+2017,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Males,100.9
+2017,Quebec,Employment,"Finance, insurance, real estate, rental and leasing",Females,132.8
+2017,Quebec,Employment,"Professional, scientific and technical services",Males,188.1
+2017,Quebec,Employment,"Professional, scientific and technical services",Females,140.1
+2017,Quebec,Employment,Educational services,Males,93.4
+2017,Quebec,Employment,Educational services,Females,199.7
+2017,Quebec,Employment,Health care and social assistance,Males,106.9
+2017,Quebec,Employment,Health care and social assistance,Females,470.8
+2017,Quebec,Employment,"Information, culture and recreation",Males,108.5
+2017,Quebec,Employment,"Information, culture and recreation",Females,76.7
+2017,Ontario,Employment,Goods-producing sector,Males,1110.1
+2017,Ontario,Employment,Goods-producing sector,Females,322.5
+2017,Ontario,Employment,Construction,Males,449.6
+2017,Ontario,Employment,Construction,Females,62.9
+2017,Ontario,Employment,Manufacturing,Males,550.3
+2017,Ontario,Employment,Manufacturing,Females,219.0
+2017,Ontario,Employment,Services-producing sector,Males,2590.8
+2017,Ontario,Employment,Services-producing sector,Females,3104.6
+2017,Ontario,Employment,Transportation and warehousing,Males,258.4
+2017,Ontario,Employment,Transportation and warehousing,Females,83.0
+2017,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Males,267.7
+2017,Ontario,Employment,"Finance, insurance, real estate, rental and leasing",Females,292.8
+2017,Ontario,Employment,"Professional, scientific and technical services",Males,351.7
+2017,Ontario,Employment,"Professional, scientific and technical services",Females,277.3
+2017,Ontario,Employment,Educational services,Males,153.2
+2017,Ontario,Employment,Educational services,Females,343.9
+2017,Ontario,Employment,Health care and social assistance,Males,156.5
+2017,Ontario,Employment,Health care and social assistance,Females,712.9
+2017,Ontario,Employment,"Information, culture and recreation",Males,165.4
+2017,Ontario,Employment,"Information, culture and recreation",Females,147.5
+2017,Manitoba,Employment,Goods-producing sector,Males,122.9
+2017,Manitoba,Employment,Goods-producing sector,Females,29.2
+2017,Manitoba,Employment,Construction,Males,43.6
+2017,Manitoba,Employment,Construction,Females,4.6
+2017,Manitoba,Employment,Manufacturing,Males,47.7
+2017,Manitoba,Employment,Manufacturing,Females,16.2
+2017,Manitoba,Employment,Services-producing sector,Males,217.3
+2017,Manitoba,Employment,Services-producing sector,Females,274.7
+2017,Manitoba,Employment,Transportation and warehousing,Males,29.5
+2017,Manitoba,Employment,Transportation and warehousing,Females,7.1
+2017,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Males,14.9
+2017,Manitoba,Employment,"Finance, insurance, real estate, rental and leasing",Females,22.2
+2017,Manitoba,Employment,"Professional, scientific and technical services",Males,14.4
+2017,Manitoba,Employment,"Professional, scientific and technical services",Females,13.8
+2017,Manitoba,Employment,Educational services,Males,16.4
+2017,Manitoba,Employment,Educational services,Females,34.6
+2017,Manitoba,Employment,Health care and social assistance,Males,20.0
+2017,Manitoba,Employment,Health care and social assistance,Females,82.2
+2017,Manitoba,Employment,"Information, culture and recreation",Males,14.0
+2017,Manitoba,Employment,"Information, culture and recreation",Females,9.9
+2017,Saskatchewan,Employment,Goods-producing sector,Males,120.4
+2017,Saskatchewan,Employment,Goods-producing sector,Females,25.8
+2017,Saskatchewan,Employment,Construction,Males,44.5
+2017,Saskatchewan,Employment,Construction,Females,6.2
+2017,Saskatchewan,Employment,Manufacturing,Males,22.2
+2017,Saskatchewan,Employment,Manufacturing,Females,5.7
+2017,Saskatchewan,Employment,Services-producing sector,Males,186.0
+2017,Saskatchewan,Employment,Services-producing sector,Females,235.3
+2017,Saskatchewan,Employment,Transportation and warehousing,Males,22.6
+2017,Saskatchewan,Employment,Transportation and warehousing,Females,6.0
+2017,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Males,11.8
+2017,Saskatchewan,Employment,"Finance, insurance, real estate, rental and leasing",Females,15.6
+2017,Saskatchewan,Employment,"Professional, scientific and technical services",Males,16.1
+2017,Saskatchewan,Employment,"Professional, scientific and technical services",Females,14.1
+2017,Saskatchewan,Employment,Educational services,Males,13.8
+2017,Saskatchewan,Employment,Educational services,Females,27.2
+2017,Saskatchewan,Employment,Health care and social assistance,Males,12.5
+2017,Saskatchewan,Employment,Health care and social assistance,Females,63.9
+2017,Saskatchewan,Employment,"Information, culture and recreation",Males,10.2
+2017,Saskatchewan,Employment,"Information, culture and recreation",Females,10.4
+2017,Alberta,Employment,Goods-producing sector,Males,465.5
+2017,Alberta,Employment,Goods-producing sector,Females,112.6
+2017,Alberta,Employment,Construction,Males,207.8
+2017,Alberta,Employment,Construction,Females,33.1
+2017,Alberta,Employment,Manufacturing,Males,92.3
+2017,Alberta,Employment,Manufacturing,Females,26.9
+2017,Alberta,Employment,Services-producing sector,Males,782.0
+2017,Alberta,Employment,Services-producing sector,Females,926.8
+2017,Alberta,Employment,Transportation and warehousing,Males,109.1
+2017,Alberta,Employment,Transportation and warehousing,Females,31.0
+2017,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Males,46.7
+2017,Alberta,Employment,"Finance, insurance, real estate, rental and leasing",Females,60.9
+2017,Alberta,Employment,"Professional, scientific and technical services",Males,102.5
+2017,Alberta,Employment,"Professional, scientific and technical services",Females,76.2
+2017,Alberta,Employment,Educational services,Males,44.8
+2017,Alberta,Employment,Educational services,Females,108.2
+2017,Alberta,Employment,Health care and social assistance,Males,49.0
+2017,Alberta,Employment,Health care and social assistance,Females,225.1
+2017,Alberta,Employment,"Information, culture and recreation",Males,36.9
+2017,Alberta,Employment,"Information, culture and recreation",Females,36.7
+2017,British Columbia,Employment,Goods-producing sector,Males,390.2
+2017,British Columbia,Employment,Goods-producing sector,Females,101.5
+2017,British Columbia,Employment,Construction,Males,201.3
+2017,British Columbia,Employment,Construction,Females,27.3
+2017,British Columbia,Employment,Manufacturing,Males,122.4
+2017,British Columbia,Employment,Manufacturing,Females,51.8
+2017,British Columbia,Employment,Services-producing sector,Males,886.1
+2017,British Columbia,Employment,Services-producing sector,Females,1088.9
+2017,British Columbia,Employment,Transportation and warehousing,Males,105.9
+2017,British Columbia,Employment,Transportation and warehousing,Females,33.4
+2017,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Males,72.6
+2017,British Columbia,Employment,"Finance, insurance, real estate, rental and leasing",Females,83.6
+2017,British Columbia,Employment,"Professional, scientific and technical services",Males,105.6
+2017,British Columbia,Employment,"Professional, scientific and technical services",Females,91.6
+2017,British Columbia,Employment,Educational services,Males,54.8
+2017,British Columbia,Employment,Educational services,Females,111.8
+2017,British Columbia,Employment,Health care and social assistance,Males,58.5
+2017,British Columbia,Employment,Health care and social assistance,Females,245.0
+2017,British Columbia,Employment,"Information, culture and recreation",Males,78.2
+2017,British Columbia,Employment,"Information, culture and recreation",Females,58.6
