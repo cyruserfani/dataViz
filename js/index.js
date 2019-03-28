@@ -147,15 +147,12 @@ function switchOrient() {
   	orientPie = false
   	chart.startAngle = 270 - 0 * 179 - 1;
     chart.endAngle = 270 + 0 * 179 + 1;
-
     valueAxis.renderer.axisAngle = chart.startAngle;
   } else {
   	orientPie = true
   	chart.startAngle = 270 - 1 * 179 - 1;
     chart.endAngle = 270 + 1 * 179 + 1;
-
     valueAxis.renderer.axisAngle = chart.startAngle;
-
   }
 }
 
@@ -229,8 +226,8 @@ series.name = "Salary";
 // series.columns.template.fill = am4core.color("#19d172");
 
 // this makes columns to be of a different color, depending on value
-series.heatRules.push({ target: series.columns.template, property: "fill", minValue: 0, maxValue: 1, min: am4core.color("#673AB7"), max: am4core.color("#1B8D64"), dataField: "valueY" });
-// series.heatRules.push({ target: series.columns.template, property: "fill", dataField: "valueY" });
+// minValue: -3, maxValue: 6, min: am4core.color("#673AB7"), max: am4core.color(“#F44336")
+series.heatRules.push({ target: series.columns.template, property: "fill", minValue: 0, maxValue: 1, min: am4core.color("#673AB7"), max: am4core.color("#1edb21"), dataField: "valueY" });
 
 // series2
 var series2 = chart.series.push(new am4charts.RadarColumnSeries());
@@ -244,8 +241,8 @@ series2.name = "Tuition";
 // series2.columns.template.fill = am4core.color("#e04b11");
 
 // this makes columns to be of a different color, depending on value
-series2.heatRules.push({ target: series2.columns.template, property: "fill", minValue: -1, maxValue: 0, min: am4core.color("#25C33E"), max: am4core.color("#F44336"), dataField: "valueY" });
-// series2.heatRules.push({ target: series2.columns.template, property: "fill", dataField: "valueY" });
+// minValue: -3, maxValue: 6, min: am4core.color("#25C33E"), max: am4core.color("#1B8D64")
+series2.heatRules.push({ target: series2.columns.template, property: "fill", minValue: -1, maxValue: 0, min: am4core.color("#F44336"), max: am4core.color("#1edb21"), dataField: "valueY" });
 
 // chart.legend = new am4charts.Legend()
 // // chart.legend.data = [{
@@ -303,7 +300,7 @@ yearSlider.events.on("rangechanged", function () {
     updateRadarData(startYear + Math.round(yearSlider.start * (endYear - startYear)));
 })
 yearSlider.orientation = "horizontal";
-yearSlider.start = 0.5;
+yearSlider.start = 0.98;
 yearSlider.exportable = false;
 
 var data = generateRadarData(salaries, tuitions, indSalaries, indTuitions)
