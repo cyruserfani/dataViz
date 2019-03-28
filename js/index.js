@@ -110,6 +110,7 @@ var currentYear = 2017;
 var colorSet = new am4core.ColorSet();
 // flag: true if use province as outercategory and industry as innerCategory
 var flag = true; 
+var orientPie = true;
 
 var chart = am4core.create("chartdiv", am4charts.RadarChart);
 chart.numberFormatter.numberFormat = "$#.0";
@@ -122,26 +123,42 @@ chart.padding(100,15,5,10)
 chart.radius = am4core.percent(65);
 chart.innerRadius = am4core.percent(40);
 
-var button = chart.createChild(am4core.Button);
-button.events.on("hit", function () {
-    switchSeries()
+// var button = chart.createChild(am4core.Button);
+// button.events.on("hit", function () {
+//     switchSeries()
 
-})
+// })
 
 function switchSeries() {
   if (flag) {
   	flag = false
     chart.data = data[1];
-    console.log('switch chart data ind', chart.data)
     chart.invalidateData();
   } else {
   	flag = true
     chart.data = data[0];
-    console.log('switch chart data prov', chart.data)
     chart.invalidateData();
 
   }
 }
+
+function switchOrient() {
+  if (orientPie) {
+  	orientPie = false
+  	chart.startAngle = 270 - 0 * 179 - 1;
+    chart.endAngle = 270 + 0 * 179 + 1;
+
+    valueAxis.renderer.axisAngle = chart.startAngle;
+  } else {
+  	orientPie = true
+  	chart.startAngle = 270 - 1 * 179 - 1;
+    chart.endAngle = 270 + 1 * 179 + 1;
+
+    valueAxis.renderer.axisAngle = chart.startAngle;
+
+  }
+}
+
 
 // year label goes in the middle
 var yearLabel = chart.radarContainer.createChild(am4core.Label);
@@ -209,10 +226,11 @@ series.clustered = false;
 series.dataFields.categoryX = innerCategoryType;
 series.tooltipText = "Salary in {categoryX}:{valueY.value}";
 series.name = "Salary";
-
+// series.columns.template.fill = am4core.color("#19d172");
 
 // this makes columns to be of a different color, depending on value
-series.heatRules.push({ target: series.columns.template, property: "fill", minValue: -3, maxValue: 6, min: am4core.color("#673AB7"), max: am4core.color("#F44336"), dataField: "valueY" });
+series.heatRules.push({ target: series.columns.template, property: "fill", minValue: 0, maxValue: 1, min: am4core.color("#673AB7"), max: am4core.color("#1B8D64"), dataField: "valueY" });
+// series.heatRules.push({ target: series.columns.template, property: "fill", dataField: "valueY" });
 
 // series2
 var series2 = chart.series.push(new am4charts.RadarColumnSeries());
@@ -223,9 +241,11 @@ series2.clustered = false;
 series2.dataFields.categoryX = innerCategoryType;
 series2.tooltipText = "Tuition fee in {categoryX}:{valueY.value}";
 series2.name = "Tuition";
+// series2.columns.template.fill = am4core.color("#e04b11");
 
 // this makes columns to be of a different color, depending on value
-series.heatRules.push({ target: series2.columns.template, property: "fill", minValue: -3, maxValue: 6, min: am4core.color("#25C33E"), max: am4core.color("#1B8D64"), dataField: "valueY" });
+series2.heatRules.push({ target: series2.columns.template, property: "fill", minValue: -1, maxValue: 0, min: am4core.color("#25C33E"), max: am4core.color("#F44336"), dataField: "valueY" });
+// series2.heatRules.push({ target: series2.columns.template, property: "fill", dataField: "valueY" });
 
 // chart.legend = new am4charts.Legend()
 // // chart.legend.data = [{
@@ -289,7 +309,6 @@ yearSlider.exportable = false;
 var data = generateRadarData(salaries, tuitions, indSalaries, indTuitions)
 
 chart.data = data[0];
-console.log('initial chart.data', chart.data)
 
 function generateRadarData(data1, data2, data3, data4) {
     var data = [];
@@ -392,7 +411,7 @@ function createRange(name, outCategoryData, index) {
     axisRange.endCategory = outCategoryData[outCategoryData.length - 1][0];
 
     // every 3rd color for a bigger contrast
-    axisRange.axisFill.fill = colorSet.getIndex(index * 3);
+    axisRange.axisFill.fill = colorSet.getIndex(index*2);
     axisRange.grid.disabled = true;
     axisRange.label.interactionsEnabled = false;
     axisRange.label.bent = true;
@@ -430,14 +449,14 @@ function createRange(name, outCategoryData, index) {
     axisLabel.relativeRotation = 0;
 }
 
-var slider = yearSliderContainer.createChild(am4core.Slider);
-slider.start = 1;
-slider.exportable = false;
-slider.events.on("rangechanged", function () {
-    var start = slider.start;
+// var slider = yearSliderContainer.createChild(am4core.Slider);
+// slider.start = 1;
+// slider.exportable = false;
+// slider.events.on("rangechanged", function () {
+//     var start = slider.start;
 
-    chart.startAngle = 270 - start * 179 - 1;
-    chart.endAngle = 270 + start * 179 + 1;
+//     chart.startAngle = 270 - start * 179 - 1;
+//     chart.endAngle = 270 + start * 179 + 1;
 
-    valueAxis.renderer.axisAngle = chart.startAngle;
-})
+//     valueAxis.renderer.axisAngle = chart.startAngle;
+// })
