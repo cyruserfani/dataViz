@@ -116,7 +116,7 @@ var usData_2 = [
         "male": [25.0, 25.0, 23.3, 23.1, 22.3, 23.6, 21.8, 20.7, 20.8, 22.2],
         "female": [6.6, 5.2, 6.8, 4.5, 5.4, 5.9, 7.1, 5.5, 4.9, 5.7]
     }, {
-        "province": "OT",
+        "province": "ON",
         "male": [624.5, 541.5, 543.2, 535.9, 546.5, 545.2, 537.8, 530.7, 525.3, 550.3],
         "female": [258.7, 232.1, 220.3, 237.0, 232.7, 221.8, 210.8, 213.9, 226.2, 219.0]
     }, {
@@ -187,11 +187,14 @@ firstcontainer.layout = "horizontal";
 var chart = firstcontainer.createChild(am4charts.RadarChart);
 chart.numberFormatter.numberFormat = "$#.0";
 chart.hiddenState.properties.opacity = 0;
+chart.scrollbarX = new am4core.Scrollbar();
+chart.scrollbarX.parent = chart.bottomAxesContainer;
+chart.bottomAxesContainer.padding(40,0,0,40);
 
 chart.startAngle = 270 - 180;
 chart.endAngle = 270 + 180;
 
-chart.padding(100, 15, 5, 10)
+chart.padding(50, 15, 5, 20)
 chart.radius = am4core.percent(65);
 chart.innerRadius = am4core.percent(40);
 
@@ -203,6 +206,8 @@ male_female_container.width = am4core.percent(100);
 male_female_container.height = am4core.percent(100);
 
 var maleChart = male_female_container.createChild(am4charts.XYChart);
+maleChart.numberFormatter = new am4core.NumberFormatter();
+maleChart.numberFormatter.numberFormat = "#.0";
 maleChart.paddingRight = 0;
 maleChart.data = JSON.parse(JSON.stringify(usData));
 
@@ -215,7 +220,7 @@ maleCategoryAxis.renderer.minGridDistance = 15;
 var maleValueAxis = maleChart.xAxes.push(new am4charts.ValueAxis());
 maleValueAxis.renderer.inversed = true;
 maleValueAxis.min = 0;
-maleValueAxis.max = 2000;
+maleValueAxis.max = 1000;
 maleValueAxis.strictMinMax = true;
 
 
@@ -225,11 +230,13 @@ maleSeries.dataFields.valueX = "male";
 //maleSeries.dataFields.valueXShow = "percent";
 maleSeries.dataFields.categoryY = "industry";
 maleSeries.interpolationDuration = 1000;
-maleSeries.columns.template.tooltipText = "Males, industry{categoryY}: {valueX} ({valueX}thousands)";
+maleSeries.columns.template.tooltipText = "Males, industry{categoryY}: {valueX.formatNumber('#.0')}  thousands";
 //maleSeries.sequencedInterpolation = true;
 
 
 var femaleChart = male_female_container.createChild(am4charts.XYChart);
+femaleChart.numberFormatter = new am4core.NumberFormatter();
+femaleChart.numberFormatter.numberFormat = "#.0";
 femaleChart.paddingLeft = 0;
 femaleChart.data = JSON.parse(JSON.stringify(usData));
 
@@ -242,18 +249,19 @@ femaleCategoryAxis.renderer.minGridDistance = 15;
 
 var femaleValueAxis = femaleChart.xAxes.push(new am4charts.ValueAxis());
 femaleValueAxis.min = 0;
-femaleValueAxis.max = 2000;
+femaleValueAxis.max = 1000;
 femaleValueAxis.strictMinMax = true;
 femaleValueAxis.renderer.minLabelPosition = 0.01;
 
 // Create series
 var femaleSeries = femaleChart.series.push(new am4charts.ColumnSeries());
 femaleSeries.dataFields.valueX = "female";
+femaleSeries.dataFields.valueX.formatNumber = "#.0";
 //femaleSeries.dataFields.valueXShow = "percent";
 femaleSeries.fill = femaleChart.colors.getIndex(4);
 femaleSeries.stroke = femaleSeries.fill;
 //femaleSeries.sequencedInterpolation = true;
-femaleSeries.columns.template.tooltipText = "Females, industry{categoryY}: {valueX} ({valueX}thousands)";
+femaleSeries.columns.template.tooltipText = "Females, industry{categoryY}: {valueX.formatNumber('#.0')}  thousands";
 femaleSeries.dataFields.categoryY = "industry";
 femaleSeries.interpolationDuration = 1000;
 
@@ -273,9 +281,9 @@ function switchSeries() {
         femaleChart.data = JSON.parse(JSON.stringify(usData_2));
         maleCategoryAxis.dataFields.category = "province";
         maleSeries.dataFields.categoryY = "province";
-        maleSeries.columns.template.tooltipText = "Males, province{categoryY}: {valueX} ({valueX} thousands)";
+        maleSeries.columns.template.tooltipText = "Males, province{categoryY}: {valueX.formatNumber('#.0')} thousands";
         femaleCategoryAxis.dataFields.category = "province";
-        femaleSeries.columns.template.tooltipText = "Females, province{categoryY}: {valueX} ({valueX} thousands)";
+        femaleSeries.columns.template.tooltipText = "Females, province{categoryY}: {valueX.formatNumber('#.0')} thousands)";
         femaleSeries.dataFields.categoryY = "province";
 
         
@@ -288,9 +296,9 @@ function switchSeries() {
         femaleChart.data = JSON.parse(JSON.stringify(usData));
         maleCategoryAxis.dataFields.category = "industry";
         maleSeries.dataFields.categoryY = "industry";
-        maleSeries.columns.template.tooltipText = "Males, industry{categoryY}: {valueX} ({valueX} thousands)";
+        maleSeries.columns.template.tooltipText = "Males, industry{categoryY}: {valueX.formatNumber('#.0')}  thousands";
         femaleCategoryAxis.dataFields.category = "industry";
-        femaleSeries.columns.template.tooltipText = "Females, industry{categoryY}: {valueX} ({valueX} thousands)";
+        femaleSeries.columns.template.tooltipText = "Females, industry{categoryY}: {valueX.formatNumber('#.0')}  thousands";
         femaleSeries.dataFields.categoryY = "industry";
        
     }
